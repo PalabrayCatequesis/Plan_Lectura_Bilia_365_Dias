@@ -1,0 +1,2323 @@
+[
+  {
+    "dia": 1,
+    "antiguo_testamento": "Génesis 1 – Génesis 2",
+    "salmos_proverbios": "Salmo 1",
+    "nuevo_testamento": "Juan 1",
+    "frase_biblica": "El Señor es mi pastor, nada me falta. (Salmo 23,1)",
+    "reflexion": "GÉNESIS: El libro del Génesis nos abre la puerta a los orígenes de todo lo creado y a la historia de salvación. Desde la creación del mundo hasta la vida de los patriarcas, contemplamos un Dios que crea con sabiduría, llama con ternura y camina con su pueblo a pesar de sus caídas. Terminar el Génesis es comenzar a ver nuestra propia historia como parte de una alianza con Dios que se renueva día a día.",
+    "reflexion_2": "SALMOS: Los Salmos expresan la profundidad del alma humana en su relación con Dios. Clamor, alabanza, arrepentimiento y confianza se entrelazan en oraciones que nos enseñan a dialogar con Dios desde el corazón, en todo momento y circunstancia.",
+    "reflexion_3": "EVANGELIO SEGÚN SAN JUAN: El Evangelio de Juan nos lleva a una contemplación profunda del misterio de Jesús, el Verbo hecho carne. A través de signos y discursos, revela su identidad divina y su amor sin medida. Jesús es la Luz, el Camino, la Verdad y la Vida. Este evangelio nos invita a permanecer en Él, como los sarmientos en la vid, para dar fruto y vivir en comunión con el Padre."
+  },
+  {
+    "dia": 2,
+    "antiguo_testamento": "Génesis 3 – Génesis 4",
+    "salmos_proverbios": "Salmo 2",
+    "nuevo_testamento": "Mateo 1",
+    "frase_biblica": "Yo soy el camino, la verdad y la vida. (Juan 14,6)",
+        "reflexion": "EVANGELIO SEGÚN SAN MATEO: El Evangelio de Mateo nos presenta a Jesús como el Mesías esperado, el nuevo Moisés que enseña con autoridad y cumple las promesas del Antiguo Testamento. A través de sus parábolas, sermones y milagros, Mateo nos invita a vivir el Reino de Dios con justicia, misericordia y fidelidad. Este evangelio nos llama a una vida coherente entre la fe y las obras, recordando que al final, seremos juzgados por el amor."
+  },
+  {
+    "dia": 3,
+    "antiguo_testamento": "Génesis 5 – Génesis 6",
+    "salmos_proverbios": "Salmo 3",
+    "nuevo_testamento": "Mateo 2",
+    "frase_biblica": "El principio de la sabiduría es el temor del Señor. (Proverbios 1,7)"
+  },
+  {
+    "dia": 4,
+    "antiguo_testamento": "Génesis 7 – Génesis 8",
+    "salmos_proverbios": "Salmo 4",
+    "nuevo_testamento": "Mateo 3",
+    "frase_biblica": "Dichosos los que escuchan la palabra de Dios y la cumplen. (Lucas 11,28)"
+  },
+  {
+    "dia": 5,
+    "antiguo_testamento": "Génesis 9 – Génesis 10",
+    "salmos_proverbios": "Salmo 5",
+    "nuevo_testamento": "Mateo 4",
+    "frase_biblica": "Alégrense en la esperanza, sean pacientes en la tribulación, perseverantes en la oración. (Romanos 12,12)"
+  },
+  {
+    "dia": 6,
+    "antiguo_testamento": "Génesis 11 – Génesis 12",
+    "salmos_proverbios": "Salmo 6",
+    "nuevo_testamento": "Mateo 5",
+    "frase_biblica": "No temas, porque yo estoy contigo. (Isaías 41,10)"
+  },
+  {
+    "dia": 7,
+    "antiguo_testamento": "Génesis 13 – Génesis 14",
+    "salmos_proverbios": "Salmo 7",
+    "nuevo_testamento": "Mateo 6",
+    "frase_biblica": "Mi gracia te basta, porque mi fuerza se manifiesta en la debilidad. (2 Corintios 12,9)"
+  },
+  {
+    "dia": 8,
+    "antiguo_testamento": "Génesis 15 – Génesis 16",
+    "salmos_proverbios": "Salmo 8",
+    "nuevo_testamento": "Mateo 7",
+    "frase_biblica": "Dame entendimiento para que observe tu ley y la guarde de todo corazón. (Salmo 119,34)"
+  },
+  {
+    "dia": 9,
+    "antiguo_testamento": "Génesis 17 – Génesis 18",
+    "salmos_proverbios": "Salmo 9",
+    "nuevo_testamento": "Mateo 8",
+    "frase_biblica": "Crea en mí, oh Dios, un corazón puro. (Salmo 51,12)"
+  },
+  {
+    "dia": 10,
+    "antiguo_testamento": "Génesis 19 – Génesis 20",
+    "salmos_proverbios": "Salmo 10",
+    "nuevo_testamento": "Mateo 9",
+    "frase_biblica": "Todo lo puedo en aquel que me fortalece. (Filipenses 4,13)"
+  },
+  {
+      "dia": 11,
+      "antiguo_testamento": "Génesis 21 – Génesis 22",
+      "salmos_proverbios": "Salmo 11",
+      "nuevo_testamento": "Mateo 10",
+      "frase_biblica": "Te basta con saber que yo estoy contigo. (Jeremías 1,8)"
+    },
+    {
+      "dia": 12,
+      "antiguo_testamento": "Génesis 23 – Génesis 24",
+      "salmos_proverbios": "Salmo 12",
+      "nuevo_testamento": "Mateo 11",
+      "frase_biblica": "Sean fuertes y valientes. No teman ni se asusten. (Deuteronomio 31,6)"
+    },
+    {
+      "dia": 13,
+      "antiguo_testamento": "Génesis 25 – Génesis 26",
+      "salmos_proverbios": "Salmo 13",
+      "nuevo_testamento": "Mateo 12",
+      "frase_biblica": "Busquen primero el Reino de Dios y su justicia. (Mateo 6,33"
+    },
+    {
+      "dia": 14,
+      "antiguo_testamento": "Génesis 27 – Génesis 28",
+      "salmos_proverbios": "Salmo 14",
+      "nuevo_testamento": "Mateo 13",
+      "frase_biblica": "El que es fiel en lo poco, también es fiel en lo mucho. (Lucas 16,10)"
+    },
+    {
+      "dia": 15,
+      "antiguo_testamento": "Génesis 29 – Génesis 30",
+      "salmos_proverbios": "Salmo 15",
+      "nuevo_testamento": "Mateo 14",
+      "frase_biblica": "Hagan todo con amor. (1 Corintios 16,14)"
+    },
+    {
+      "dia": 16,
+      "antiguo_testamento": "Génesis 31 – Génesis 32",
+      "salmos_proverbios": "Salmo 16",
+      "nuevo_testamento": "Mateo 15",
+      "frase_biblica": "Sé fuerte y valiente, no tengas miedo. (Josué 1,9)"
+    },
+    {
+      "dia": 17,
+      "antiguo_testamento": "Génesis 33 – Génesis 34",
+      "salmos_proverbios": "Salmo 17",
+      "nuevo_testamento": "Mateo 16",
+      "frase_biblica": "El amor no hace mal al prójimo. (Romanos 13,10)"
+    },
+    {
+      "dia": 18,
+      "antiguo_testamento": "Génesis 35 – Génesis 36",
+      "salmos_proverbios": "Salmo 18",
+      "nuevo_testamento": "Mateo 17",
+      "frase_biblica": "El Señor peleará por ustedes. (Éxodo 14,14)"
+    },
+    {
+      "dia": 19,
+      "antiguo_testamento": "Génesis 37 – Génesis 38",
+      "salmos_proverbios": "Salmo 19",
+      "nuevo_testamento": "Mateo 18",
+      "frase_biblica": "Honra a tu padre y a tu madre. (Éxodo 20,12)"
+    },
+    {
+      "dia": 20,
+      "antiguo_testamento": "Génesis 39 – Génesis 40",
+      "salmos_proverbios": "Salmo 20",
+      "nuevo_testamento": "Mateo 19",
+      "frase_biblica": "El que practica la justicia es justo. (1 Juan 3,7)"
+    },
+    {
+        "dia": 21,
+        "antiguo_testamento": "Génesis 41 – Génesis 42",
+        "salmos_proverbios": "Salmo 21",
+        "nuevo_testamento": "Mateo 20",
+        "frase_biblica": "No dejes que se apague tu entusiasmo, mantenlo vivo sirviendo al Señor. (Romanos 12,11)"
+      },
+      {
+        "dia": 22,
+        "antiguo_testamento": "Génesis 43 – Génesis 44",
+        "salmos_proverbios": "Salmo 22",
+        "nuevo_testamento": "Mateo 21",
+        "frase_biblica": "El que habita al abrigo del Altísimo se acoge a la sombra del Todopoderoso. (Salmo 91,1)"
+      },
+      {
+        "dia": 23,
+        "antiguo_testamento": "Génesis 45 – Génesis 46",
+        "salmos_proverbios": "Salmo 23",
+        "nuevo_testamento": "Mateo 22",
+        "frase_biblica": "El Señor corrige a quien ama. (Hebreos 12,6)"
+      },
+      {
+        "dia": 24,
+        "antiguo_testamento": "Génesis 47 – Génesis 48",
+        "salmos_proverbios": "Salmo 24",
+        "nuevo_testamento": "Mateo 23",
+        "frase_biblica": "Que la paz de Cristo reine en sus corazones. (Colosenses 3,15)"
+      },
+      {
+        "dia": 25,
+        "antiguo_testamento": "Génesis 49 – Génesis 50",
+        "salmos_proverbios": "Salmo 25",
+        "nuevo_testamento": "Mateo 24",
+        "frase_biblica": "Porque donde está tu tesoro, allí estará también tu corazón. (Mateo 6,21)"
+      },
+      {
+        "dia": 26,
+        "antiguo_testamento": "Éxodo 1 – Éxodo 2",
+        "salmos_proverbios": "Salmo 26",
+        "nuevo_testamento": "Mateo 25",
+        "frase_biblica": "Den gracias en todo, porque esta es la voluntad de Dios. (1 Tesalonicenses 5,18)",
+		"reflexion": "ÉXODO: El Éxodo nos muestra el poder liberador de Dios y su fidelidad con el pueblo que llama. Es el relato del paso de la esclavitud a la libertad, de la servidumbre al culto. Al cerrar este libro, descubrimos que la Pascua no es solo un evento del pasado, sino un llamado continuo a salir de nuestras esclavitudes para caminar hacia la tierra prometida que es la voluntad de Dios."
+      },
+      {
+        "dia": 27,
+        "antiguo_testamento": "Éxodo 3 – Éxodo 4",
+        "salmos_proverbios": "Salmo 27",
+        "nuevo_testamento": "Mateo 26",
+        "frase_biblica": "No se angustien por nada. (Filipenses 4,6)"
+      },
+      {
+        "dia": 28,
+        "antiguo_testamento": "Éxodo 5 – Éxodo 6",
+        "salmos_proverbios": "Salmo 28",
+        "nuevo_testamento": "Mateo 27",
+        "frase_biblica": "Dios es amor, y quien permanece en el amor permanece en Dios. (1 Juan 4,16)"
+      },
+      {
+        "dia": 29,
+        "antiguo_testamento": "Éxodo 7 – Éxodo 8",
+        "salmos_proverbios": "Salmo 29",
+        "nuevo_testamento": "Mateo 28",
+        "frase_biblica": "Confía en el Señor de todo corazón. (Proverbios 3,5)"
+      },
+      {
+        "dia": 30,
+        "antiguo_testamento": "Éxodo 9 – Éxodo 10",
+        "salmos_proverbios": "Salmo 30",
+        "nuevo_testamento": "Marcos 1",
+        "frase_biblica": "Mi alma engrandece al Señor. (Lucas 1,46)",
+    "reflexion": "EVENGELIO SEGÚN SAN MARCOS: Marcos nos ofrece un relato directo, dinámico y lleno de acción sobre la vida de Jesús, el Hijo de Dios. Destaca el misterio de su identidad, su compasión por los marginados y su camino hacia la cruz. En Marcos, el discipulado implica seguir a Jesús hasta el final, abrazando el servicio y la entrega. Este evangelio nos recuerda que el verdadero poder se manifiesta en el amor que se sacrifica por los demás."
+      },
+	{
+    "dia": 31,
+    "antiguo_testamento": "Éxodo 11 – Éxodo 12",
+    "salmos_proverbios": "Salmo 31",
+    "nuevo_testamento": "Marcos 2",
+    "frase_biblica": "Te ensalzaré, Señor, porque me has levantado. (Salmo 30,2)"
+  },
+  {
+    "dia": 32,
+    "antiguo_testamento": "Éxodo 13 – Éxodo 14",
+    "salmos_proverbios": "Salmo 32",
+    "nuevo_testamento": "Marcos 3",
+    "frase_biblica": "Esfuérzate y mantén el ánimo, no temas. (1 Crónicas 28,20)"
+  },
+  {
+    "dia": 33,
+    "antiguo_testamento": "Éxodo 15 – Éxodo 16",
+    "salmos_proverbios": "Salmo 33",
+    "nuevo_testamento": "Marcos 4",
+    "frase_biblica": "No juzguen y no serán juzgados. (Mateo 7,1)"
+  },
+  {
+    "dia": 34,
+    "antiguo_testamento": "Éxodo 17 – Éxodo 18",
+    "salmos_proverbios": "Salmo 34",
+    "nuevo_testamento": "Marcos 5",
+    "frase_biblica": "Dichosos los limpios de corazón, porque ellos verán a Dios. (Mateo 5,8)"
+  },
+  {
+    "dia": 35,
+    "antiguo_testamento": "Éxodo 19 – Éxodo 20",
+    "salmos_proverbios": "Salmo 35",
+    "nuevo_testamento": "Marcos 6",
+    "frase_biblica": "Jesús lloró. (Juan 11,35)"
+  },
+  {
+    "dia": 36,
+    "antiguo_testamento": "Éxodo 21 – Éxodo 22",
+    "salmos_proverbios": "Salmo 36",
+    "nuevo_testamento": "Marcos 7",
+    "frase_biblica": "El Señor es compasivo y misericordioso. (Santiago 5,11)"
+  },
+  {
+    "dia": 37,
+    "antiguo_testamento": "Éxodo 23 – Éxodo 24",
+    "salmos_proverbios": "Salmo 37",
+    "nuevo_testamento": "Marcos 8",
+    "frase_biblica": "Estén siempre alegres en el Señor. (Filipenses 4,4)"
+  },
+  {
+    "dia": 38,
+    "antiguo_testamento": "Éxodo 25 – Éxodo 26",
+    "salmos_proverbios": "Salmo 38",
+    "nuevo_testamento": "Marcos 9",
+    "frase_biblica": "Él da esfuerzo al cansado. (Isaías 40,29)"
+  },
+  {
+    "dia": 39,
+    "antiguo_testamento": "Éxodo 27 – Éxodo 28",
+    "salmos_proverbios": "Salmo 39",
+    "nuevo_testamento": "Marcos 10",
+    "frase_biblica": "Alaba, alma mía, al Señor. (Salmo 103,1)"
+  },
+  {
+    "dia": 40,
+    "antiguo_testamento": "Éxodo 29 – Éxodo 30",
+    "salmos_proverbios": "Salmo 40",
+    "nuevo_testamento": "Marcos 11",
+    "frase_biblica": "Amarás al Señor tu Dios con todo tu corazón. (Deuteronomio 6,5)"
+  },
+{
+    "dia": 41,
+    "antiguo_testamento": "Éxodo 31 – Éxodo 32",
+    "salmos_proverbios": "Salmo 41",
+    "nuevo_testamento": "Marcos 12",
+    "frase_biblica": "Busquen al Señor mientras se le puede encontrar. (Isaías 55,6)"
+  },
+  {
+    "dia": 42,
+    "antiguo_testamento": "Éxodo 33 – Éxodo 34",
+    "nuevo_testamento": "Marcos 13",
+    "frase_biblica": "No te dejes vencer por el mal, sino vence el mal con el bien. (Romanos 12,21)"
+  },
+  {
+    "dia": 43,
+    "antiguo_testamento": "Éxodo 35 – Éxodo 36",
+    "nuevo_testamento": "Marcos 14",
+    "frase_biblica": "Te basta mi gracia. (2 Corintios 12,9)"
+  },
+  {
+    "dia": 44,
+    "antiguo_testamento": "Éxodo 37 – Éxodo 38",
+    "nuevo_testamento": "Marcos 15",
+    "frase_biblica": "El justo vivirá por la fe. (Habacuc 2,4)"
+  },
+  {
+    "dia": 45,
+    "antiguo_testamento": "Éxodo 39 – Éxodo 40",
+    "nuevo_testamento": "Marcos 16",
+    "frase_biblica": "TEstén preparados, porque no saben ni el día ni la hora. (Mateo 25,13)"
+  },
+  {
+    "dia": 46,
+    "antiguo_testamento": "Levítico 1 – Levítico 2",
+    "nuevo_testamento": "Lucas 1",
+    "frase_biblica": "Habla, Señor, que tu siervo escucha. (1 Samuel 3,10)",
+    "reflexion": "LEVÍTICO: Levítico nos introduce en el sentido profundo de la santidad y del culto. A través de sus leyes, comprendemos que la relación con Dios transforma cada aspecto de nuestra vida cotidiana. Terminar Levítico es una invitación a vivir en comunión con lo sagrado, sabiendo que estamos llamados a ser santos como Dios es santo.",
+    "reflexion_2": "EVANGELIO SEGÚN SAN LUCAS: Lucas escribe con un corazón universal y misericordioso. Jesús es el Salvador de todos, especialmente de los pobres, los pecadores y los excluidos. Este evangelio resalta la oración, la acción del Espíritu Santo y la alegría del Evangelio. María, madre de Jesús y modelo de fe, ocupa un lugar especial. Lucas nos enseña que la salvación es historia viva y cercana, donde Dios se hace prójimo."
+  },
+  {
+    "dia": 47,
+    "antiguo_testamento": "Levítico 3 – Levítico 4",
+    "nuevo_testamento": "Lucas 2",
+    "frase_biblica": "El Señor examina los corazones. (Proverbios 21,2)"
+  },
+  {
+    "dia": 48,
+    "antiguo_testamento": "Levítico 5 – Levítico 6",
+    "nuevo_testamento": "Lucas 3",
+    "frase_biblica": "El Señor es mi luz y mi salvación, ¿a quién temeré? (Salmo 27,1)"
+  },
+  {
+    "dia": 49,
+    "antiguo_testamento": "Levítico 7 – Levítico 8",
+    "nuevo_testamento": "Lucas 4",
+    "frase_biblica": "Sean misericordiosos, como su Padre es misericordioso. (Lucas 6,36)"
+  },
+  {
+    "dia": 50,
+    "antiguo_testamento": "Levítico 9 – Levítico 10",
+    "nuevo_testamento": "Lucas 5",
+    "frase_biblica": "Dichosos los que confían en el Señor. (Jeremías 17,7)"
+  },
+{
+    "dia": 51,
+    "antiguo_testamento": "Levítico 11 – Levítico 12",
+    "nuevo_testamento": "Lucas 6",
+    "frase_biblica": "Dame sabiduría e inteligencia para que sepa guiar a este pueblo. (2 Crónicas 1,10)"
+  },
+  {
+    "dia": 52,
+    "antiguo_testamento": "Levítico 13 – Levítico 14",
+    "nuevo_testamento": "Lucas 7",
+    "frase_biblica": "Es mejor refugiarse en el Señor que confiar en los hombres. (Salmo 118,8)"
+  },
+  {
+    "dia": 53,
+    "antiguo_testamento": "Levítico 15 – Levítico 16",
+    "nuevo_testamento": "Lucas 8",
+    "frase_biblica": "Yo estoy con ustedes todos los días, hasta el fin del mundo. (Mateo 28,20)"
+  },
+  {
+    "dia": 54,
+    "antiguo_testamento": "Levítico 17 – Levítico 18",
+    "nuevo_testamento": "Lucas 9",
+    "frase_biblica": "Tu palabra es una lámpara para mis pasos y una luz en mi camino. (Salmo 119,105)"
+  },
+  {
+    "dia": 55,
+    "antiguo_testamento": "Levítico 19 – Levítico 20",
+    "nuevo_testamento": "Lucas 10",
+    "frase_biblica": "Revestíos del Señor Jesucristo. (Romanos 13,14)"
+  },
+  {
+    "dia": 56,
+    "antiguo_testamento": "Levítico 21 – Levítico 22",
+    "nuevo_testamento": "Lucas 11",
+    "frase_biblica": "Gusten y vean qué bueno es el Señor. (Salmo 34,9)"
+  },
+  {
+    "dia": 57,
+    "antiguo_testamento": "Levítico 23 – Levítico 24",
+    "nuevo_testamento": "Lucas 12",
+    "frase_biblica": "Como elegidos de Dios, santos y amados, revístanse de ternura entrañable. (Colosenses 3,12)"
+  },
+  {
+    "dia": 58,
+    "antiguo_testamento": "Levítico 25 – Levítico 26",
+    "nuevo_testamento": "Lucas 13",
+    "frase_biblica": "En tu mano están mis días. (Salmo 31,16)"
+  },
+  {
+    "dia": 59,
+    "antiguo_testamento": "Levítico 27",
+    "nuevo_testamento": "Lucas 14 - Lucas 15",
+    "frase_biblica": "El que quiera ser grande entre ustedes, que sea su servidor. (Marcos 10,43)"
+  },
+  {
+    "dia": 60,
+    "antiguo_testamento": "Números 1 – Números 2",
+    "salmos_proverbios": "Salmo 42",
+    "nuevo_testamento": "Lucas 16",
+    "frase_biblica": "Si el Señor no construye la casa, en vano se cansan los albañiles. (Salmo 127,1)",
+     "reflexion": "NÚMEROS: Este libro muestra el peregrinar del pueblo de Israel por el desierto, con sus luchas, rebeliones y renovaciones de fe. Nos enseña que, en medio de nuestras pruebas, Dios nunca deja de guiarnos y corregirnos con amor, llamándonos a confiar plenamente en su promesa."
+   },
+ {
+     "dia": 61,
+     "antiguo_testamento": "Números 3 – Números 4",
+     "salmos_proverbios": "Salmo 43",
+     "nuevo_testamento": "Lucas 17",
+     "frase_biblica": "Yo soy la vid, ustedes los sarmientos. (Juan 15,5)"
+   },
+   {
+     "dia": 62,
+     "antiguo_testamento": "Números 5 – Números 6",
+     "salmos_proverbios": "Salmo 44",
+     "nuevo_testamento": "Lucas 18",
+     "frase_biblica": "Así habla el Señor: Yo tengo planes de bienestar, no de calamidad. (Jeremías 29,11)"
+   },
+   {
+     "dia": 63,
+     "antiguo_testamento": "Números 7 – Números 8",
+     "salmos_proverbios": "Salmo 45",
+     "nuevo_testamento": "Lucas 19",
+     "frase_biblica": "Sean santos, porque yo, el Señor, su Dios, soy santo. (Levítico 19,2)"
+   },
+   {
+     "dia": 64,
+     "antiguo_testamento": "Números 9 – Números 10",
+     "salmos_proverbios": "Salmo 46",
+     "nuevo_testamento": "Lucas 20",
+     "frase_biblica": "La fe es la garantía de lo que se espera. (Hebreos 11,1)"
+   },
+   {
+     "dia": 65,
+     "antiguo_testamento": "Números 11 – Números 12",
+     "salmos_proverbios": "Salmo 47",
+     "nuevo_testamento": "Lucas 21",
+     "frase_biblica": "El que tiene oídos, que oiga lo que el Espíritu dice a las iglesias. (Apocalipsis 2,7)"
+   },
+   {
+     "dia": 66,
+     "antiguo_testamento": "Números 13 – Números 14",
+     "salmos_proverbios": "Salmo 48",
+     "nuevo_testamento": "Lucas 22",
+     "frase_biblica": "No está lejos de cada uno de nosotros. (Hechos 17,27)"
+   },
+   {
+     "dia": 67,
+     "antiguo_testamento": "Números 15 – Números 16",
+     "salmos_proverbios": "Salmo 49",
+     "nuevo_testamento": "Lucas 23",
+     "frase_biblica": "El Señor es justo en todos sus caminos. (Salmo 145,17)"
+   },
+   {
+     "dia": 68,
+     "antiguo_testamento": "Números 17 – Números 18",
+     "salmos_proverbios": "Salmo 50",
+     "nuevo_testamento": "Lucas 24",
+     "frase_biblica": "Lámpara del cuerpo es el ojo; si tu ojo está sano, todo tu cuerpo estará iluminado. (Mateo 6,22)"
+   },
+   {
+     "dia": 69,
+     "antiguo_testamento": "Números 19 – Números 20",
+     "salmos_proverbios": "Salmo 51",
+     "nuevo_testamento": "Juan 2",
+     "frase_biblica": "El fruto del Espíritu es amor, alegría, paz, paciencia... (Gálatas 5,22)"
+   },
+   {
+     "dia": 70,
+     "antiguo_testamento": "Números 21 – Números 22",
+     "salmos_proverbios": "Salmo 52",
+     "nuevo_testamento": "Juan 3",
+     "frase_biblica": "Hacedlo todo sin murmuraciones ni discusiones. (Filipenses 2,14)"
+  },
+  {
+      "dia": 71,
+      "antiguo_testamento": "Números 23 – Números 24",
+      "salmos_proverbios": "Salmo 53",
+      "nuevo_testamento": "Juan 4",
+      "frase_biblica": "Jesucristo es el mismo ayer, hoy y siempre. (Hebreos 13,8)"
+    },
+    {
+      "dia": 72,
+      "antiguo_testamento": "Números 25 – Números 26",
+      "salmos_proverbios": "Salmo 54",
+      "nuevo_testamento": "Juan 5",
+      "frase_biblica": "Guarda silencio ante el Señor y espera en él. (Salmo 37,7)"
+    },
+    {
+      "dia": 73,
+      "antiguo_testamento": "Números 27 – Números 28",
+      "salmos_proverbios": "Salmo 55",
+      "nuevo_testamento": "Juan 6",
+      "frase_biblica": "Dios es nuestro refugio y fortaleza, ayuda siempre pronta en la angustia. (Salmo 46,2)"
+    },
+    {
+      "dia": 74,
+      "antiguo_testamento": "Números 29 – Números 30",
+      "salmos_proverbios": "Salmo 56",
+      "nuevo_testamento": "Juan 7",
+      "frase_biblica": "El Señor sana los corazones destrozados. (Salmo 147,3)"
+    },
+    {
+      "dia": 75,
+      "antiguo_testamento": "Números 31 – Números 32",
+      "salmos_proverbios": "Salmo 57",
+      "nuevo_testamento": "Juan 8",
+      "frase_biblica": "Ámense unos a otros como yo los he amado. (Juan 13,34)"
+    },
+    {
+      "dia": 76,
+      "antiguo_testamento": "Números 33 – Números 34",
+      "salmos_proverbios": "Salmo 58",
+      "nuevo_testamento": "Juan 9",
+      "frase_biblica": "A ti, Señor, levanto mi alma. (Salmo 25,1)"
+    },
+    {
+      "dia": 77,
+      "antiguo_testamento": "Números 35 – Números 36",
+      "salmos_proverbios": "Salmo 59",
+      "nuevo_testamento": "Juan 10",
+      "frase_biblica": "El Señor es bueno con los que esperan en él. (Lamentaciones 3,25)"
+    },
+    {
+      "dia": 78,
+      "antiguo_testamento": "Deuteronomio 1 – Deuteronomio 2",
+      "salmos_proverbios": "Salmo 60",
+      "nuevo_testamento": "Juan 11",
+      "frase_biblica": "Si alguno está en Cristo, es una nueva creación. (2 Corintios 5,17)",
+      "reflexion": "DEUTERONOMIO: Elegir la vida en la Alianza: Deuteronomio es el gran discurso de despedida de Moisés. En él resuena un llamado profundo a la obediencia, a la fidelidad, y al amor a Dios con todo el corazón, alma y fuerza. Al concluirlo, entendemos que la Ley no es una carga, sino un camino de vida y de bendición para quien elige permanecer en la alianza. “Escoge la vida para que vivas tú y tu descendencia” (Dt 30,19)."
+    },
+    {
+      "dia": 79,
+      "antiguo_testamento": "Deuteronomio 3 – Deuteronomio 4",
+      "salmos_proverbios": "Salmo 61",
+      "nuevo_testamento": "Juan 12",
+      "frase_biblica": "No te olvides del Señor, tu Dios. (Deuteronomio 8,11)"
+    },
+    {
+      "dia": 80,
+      "antiguo_testamento": "Deuteronomio 5 – Deuteronomio 6",
+      "salmos_proverbios": "Salmo 62",
+      "nuevo_testamento": "Juan 13",
+      "frase_biblica": "El Señor me llama desde el seno de mi madre. (Isaías 49,1)"
+  },
+{
+    "dia": 81,
+    "antiguo_testamento": "Deuteronomio 7 – Deuteronomio 8",
+    "salmos_proverbios": "Salmo 63",
+    "nuevo_testamento": "Juan 14",
+    "frase_biblica": "Tu bondad y tu fidelidad me acompañan todos los días de mi vida. (Salmo 23,6)"
+  },
+  {
+    "dia": 82,
+    "antiguo_testamento": "Deuteronomio 9 – Deuteronomio 10",
+    "salmos_proverbios": "Salmo 64",
+    "nuevo_testamento": "Juan 15",
+    "frase_biblica": "La paciencia produce virtud probada, y la virtud probada esperanza. (Romanos 5,4)"
+  },
+  {
+    "dia": 83,
+    "antiguo_testamento": "Deuteronomio 11 – Deuteronomio 12",
+    "salmos_proverbios": "Salmo 65",
+    "nuevo_testamento": "Juan 16",
+    "frase_biblica": "El que me ama guardará mi palabra. (Juan 14,23)"
+  },
+  {
+    "dia": 84,
+    "antiguo_testamento": "Deuteronomio 13 – Deuteronomio 14",
+    "salmos_proverbios": "Salmo 66",
+    "nuevo_testamento": "Juan 17",
+    "frase_biblica": "El justo florecerá como la palmera. (Salmo 92,13)"
+  },
+  {
+    "dia": 85,
+    "antiguo_testamento": "Deuteronomio 15 – Deuteronomio 16",
+    "salmos_proverbios": "Salmo 67",
+    "nuevo_testamento": "Juan 18",
+    "frase_biblica": "Todo tiene su momento y cada cosa su tiempo bajo el cielo. (Eclesiastés 3,1)"
+  },
+  {
+    "dia": 86,
+    "antiguo_testamento": "Deuteronomio 17 – Deuteronomio 18",
+    "salmos_proverbios": "Salmo 68",
+    "nuevo_testamento": "Juan 19",
+    "frase_biblica": "Mi alma espera en el Señor más que el centinela la aurora. (Salmo 130,6)"
+  },
+  {
+    "dia": 87,
+    "antiguo_testamento": "Deuteronomio 19 – Deuteronomio 20",
+    "salmos_proverbios": "Salmo 69",
+    "nuevo_testamento": "Juan 20",
+    "frase_biblica": "No temas, pequeño rebaño, porque el Padre ha querido darles el Reino. (Lucas 12,32)"
+  },
+  {
+    "dia": 88,
+    "antiguo_testamento": "Deuteronomio 21 – Deuteronomio 22",
+    "salmos_proverbios": "Salmo 70",
+    "nuevo_testamento": "Juan 21",
+    "frase_biblica": "Con gozo sacaréis agua de las fuentes de la salvación. (Isaías 12,3)"
+  },
+  {
+    "dia": 89,
+    "antiguo_testamento": "Deuteronomio 23 – Deuteronomio 24",
+    "nuevo_testamento": "Hechos 1",
+    "frase_biblica": "Vengan a mí los que están cansados y agobiados, y yo los aliviaré. (Mateo 11,28)",
+    "reflexion": "HECHOS DE LOS APÓSTOLES: Los Hechos de los Apóstoles narran la acción del Espíritu Santo en la Iglesia naciente. Desde Pentecostés, los discípulos se convierten en testigos valientes del Evangelio, llevando la Buena Nueva hasta los confines del mundo. Pedro, Pablo y la comunidad cristiana primitiva nos muestran cómo vivir la fe en medio de dificultades, con unidad, oración y valentía. Este libro es un llamado a ser Iglesia misionera, guiada por el Espíritu y comprometida con el Reino."
+  },
+  {
+    "dia": 90,
+    "antiguo_testamento": "Deuteronomio 25 – Deuteronomio 26",
+    "nuevo_testamento": "Hechos 2",
+    "frase_biblica": "No se inquieten por el día de mañana. (Mateo 6,34)"
+  },
+{
+    "dia": 91,
+    "antiguo_testamento": "Deuteronomio 27 – Deuteronomio 28",
+    "nuevo_testamento": "Hechos 3",
+    "frase_biblica": "El Señor está cerca de los que lo invocan con sinceridad. (Salmo 145,18)"
+  },
+  {
+    "dia": 92,
+    "antiguo_testamento": "Deuteronomio 29 – Deuteronomio 30",
+    "nuevo_testamento": "Hechos 4",
+    "frase_biblica": "Corrijan con espíritu de mansedumbre. (Gálatas 6,1)"
+  },
+  {
+    "dia": 93,
+    "antiguo_testamento": "Deuteronomio 31 – Deuteronomio 32",
+    "nuevo_testamento": "Hechos 5",
+    "frase_biblica": "Dichoso el que teme al Señor y sigue sus caminos. (Salmo 128,1)"
+  },
+  {
+    "dia": 94,
+    "antiguo_testamento": "Deuteronomio 33 – Deuteronomio 34",
+    "nuevo_testamento": "Hechos 6",
+    "frase_biblica": "Yo soy el pan vivo bajado del cielo. (Juan 6,51)"
+  },
+  {
+    "dia": 95,
+    "antiguo_testamento": "Josué 1 - Josué 2",
+    "nuevo_testamento": "Hechos 7",
+    "frase_biblica": "Inclina mi corazón hacia tus preceptos. (Salmo 119,36)",
+    "reflexion": "JOSUÉ: El cumplimiento de la promesa nos compromete: El libro de Josué muestra el ingreso del pueblo de Israel a la Tierra Prometida. Es el momento del cumplimiento de la promesa, pero también de exigencia: fidelidad y obediencia para permanecer en la herencia. Terminar Josué es renovar nuestra decisión por Dios y su camino. “Yo y mi casa serviremos al Señor” (Jos 24,15)."
+  },
+  {
+    "dia": 96,
+    "antiguo_testamento": "Josué 3 - Josué 4",
+    "nuevo_testamento": "Hechos 8",
+    "frase_biblica": "No devuelvan mal por mal ni insulto por insulto. (1 Pedro 3,9)"
+  },
+  {
+    "dia": 97,
+    "antiguo_testamento": "Josué 5 - Josué 6",
+    "nuevo_testamento": "Hechos 9",
+    "frase_biblica": "Hazme oír por la mañana tu amor, ya que en ti confío. (Salmo 143,8)"
+  },
+  {
+    "dia": 98,
+    "antiguo_testamento": "Josué 7 - Josué 8",
+    "nuevo_testamento": "Hechos 10",
+    "frase_biblica": "Tu promesa me da vida. (Salmo 119,50)"
+  },
+  {
+    "dia": 99,
+    "antiguo_testamento": "Josué 9 - Josué 10",
+    "nuevo_testamento": "Hechos 11",
+    "frase_biblica": "Ya no hay condenación para los que están en Cristo Jesús. (Romanos 8,1)"
+  },
+  {
+    "dia": 100,
+    "antiguo_testamento": "Josué 11 - Josué 12",
+    "nuevo_testamento": "Hechos 12",
+    "frase_biblica": "Mi alma está sedienta de ti, Señor, mi Dios. (Salmo 63,2)"
+  },
+{
+    "dia": 101,
+    "antiguo_testamento": "Josué 13 - Josué 14",
+    "nuevo_testamento": "Hechos 13",
+    "frase_biblica": "En el amor no hay temor, sino que el amor perfecto expulsa el temor. (1 Juan 4,18)"
+  },
+  {
+    "dia": 102,
+    "antiguo_testamento": "Josué 15 - Josué 16",
+    "nuevo_testamento": "Hechos 14",
+    "frase_biblica": "Canten al Señor un cántico nuevo. (Salmo 96,1)"
+  },
+  {
+    "dia": 103,
+    "antiguo_testamento": "Josué 17 - Josué 18",
+    "nuevo_testamento": "Hechos 15",
+    "frase_biblica": "Pide lo que quieras que yo te lo daré. (1 Reyes 3,5)"
+  },
+  {
+    "dia": 104,
+    "antiguo_testamento": "Josué 19 - Josué 20",
+    "nuevo_testamento": "Hechos 16",
+    "frase_biblica": "Estén siempre dispuestos a dar razón de su esperanza. (1 Pedro 3,15)"
+  },
+  {
+    "dia": 105,
+    "antiguo_testamento": "Josué 21 - Josué 22",
+    "nuevo_testamento": "Hechos 17",
+    "frase_biblica": "El Señor da fuerza a su pueblo, el Señor bendice a su pueblo con la paz. (Salmo 29,11)"
+  },
+  {
+    "dia": 106,
+    "antiguo_testamento": "Josué 23 - Josué 24",
+    "nuevo_testamento": "Hechos 18",
+    "frase_biblica": "Los que siembran con lágrimas, cosecharán con alegría. (Salmo 126,5)"
+  },
+  {
+    "dia": 107,
+    "antiguo_testamento": "Jueces 1 - Jueces 2",
+    "nuevo_testamento": "Hechos 19",
+    "frase_biblica": "Yo te instruiré y te enseñaré el camino que debes seguir. (Salmo 32,8)",
+    "reflexion": "JUECES: El libro de los Jueces revela una constante infidelidad del pueblo y la misericordia inagotable de Dios. Cada ciclo de pecado, opresión y liberación muestra cómo Dios no abandona a su pueblo, incluso cuando este se aleja. Nos enseña que cada persona llamada por Dios, aunque imperfecta, puede ser instrumento de salvación. ¿Reconozco en mi vida los momentos donde Dios me ha levantado a pesar de mis caídas?"
+  },
+  {
+    "dia": 108,
+    "antiguo_testamento": "Jueces 3 - Jueces 4",
+    "nuevo_testamento": "Hechos 20",
+    "frase_biblica": "Sean agradecidos. (Colosenses 3,15)"
+  },
+  {
+    "dia": 109,
+    "antiguo_testamento": "Jueces 5 - Jueces 6",
+    "nuevo_testamento": "Hechos 21",
+    "frase_biblica": "Que el Señor les conceda un corazón que lo conozca. (Baruc 2,31)"
+  },
+  {
+    "dia": 110,
+    "antiguo_testamento": "Jueces 7 - Jueces 8",
+    "nuevo_testamento": "Hechos 22",
+    "frase_biblica": "Bendice, alma mía, al Señor, y no olvides ninguno de sus beneficios. (Salmo 103,2)"
+  },
+{
+    "dia": 111,
+    "antiguo_testamento": "Jueces 9 - Jueces 10",
+    "nuevo_testamento": "Hechos 23",
+    "frase_biblica": "Permanezcan en mi amor. (Juan 15,9)"
+  },
+  {
+    "dia": 112,
+    "antiguo_testamento": "Jueces 11 - Jueces 12",
+    "nuevo_testamento": "Hechos 24",
+    "frase_biblica": "Hazme justicia, Señor, pues he obrado con integridad. (Salmo 26,1)"
+  },
+  {
+    "dia": 113,
+    "antiguo_testamento": "Jueces 13 - Jueces 14",
+    "nuevo_testamento": "Hechos 25",
+    "frase_biblica": "¿Qué pide de ti el Señor? Que practiques la justicia, ames la misericordia y camines humildemente con tu Dios. (Miqueas 6,8)"
+  },
+  {
+    "dia": 114,
+    "antiguo_testamento": "Jueces 15 - Jueces 16",
+    "nuevo_testamento": "Hechos 26",
+    "frase_biblica": "En el mundo tendrán tribulación, pero ánimo, yo he vencido al mundo. (Juan 16,33)"
+  },
+  {
+    "dia": 115,
+    "antiguo_testamento": "Jueces 17 - Jueces 18",
+    "nuevo_testamento": "Hechos 27",
+    "frase_biblica": "El Señor es mi fuerza y mi escudo. (Salmo 28,7)"
+  },
+  {
+    "dia": 116,
+    "antiguo_testamento": "Jueces 19 - Jueces 20",
+    "nuevo_testamento": "Hechos 28",
+    "frase_biblica": "Los ojos del Señor están sobre los justos. (1 Pedro 3,12)"
+  },
+  {
+    "dia": 117,
+    "antiguo_testamento": "Jueces 21 - Sabiduría 1 - Sabiduría 2",
+    "frase_biblica": "Cuando pases por el fuego, no te quemarás. (Isaías 43,2)",
+    "reflexion": "SABIDURÍA: El libro de la Sabiduría exalta la luz de Dios en medio del mundo. Nos invita a buscar la sabiduría divina como un tesoro más valioso que el oro, pues ella conduce a la justicia y a la inmortalidad. Nos enseña que Dios es amigo de la vida y guía a los suyos con ternura y firmeza. Este libro fortalece la esperanza en la victoria del justo y nos anima a vivir según la verdad que libera y salva."
+  },
+  {
+    "dia": 118,
+    "antiguo_testamento": "Rut 1 - Rut 2 - Sabiduría 3 - Sabiduría 4",
+    "frase_biblica": "Los mansos heredarán la tierra. (Mateo 5,5)",
+    "reflexion": "RUT: Rut, la extranjera fiel, es un ejemplo de lealtad, humildad y esperanza. Su historia es un recordatorio de que Dios obra en lo cotidiano y transforma incluso las pérdidas en bendición. Nos revela que en la aparente sencillez de nuestras decisiones diarias, se teje la historia de la salvación. Rut nos inspira a confiar, a amar con generosidad y a acoger a los demás sin prejuicio."
+  },
+  {
+    "dia": 119,
+    "antiguo_testamento": "Rut 3 - Rut 4 - Sabiduría 5 - Sabiduría 6",
+    "frase_biblica": "Como está lejos el oriente del occidente, así aleja de nosotros nuestras culpas. (Salmo 103,12)"
+  },
+  {
+    "dia": 120,
+    "antiguo_testamento": "1 Samuel 1 - 1 Samuel 2 - Sabiduría 7 - Sabiduría 8",
+    "frase_biblica": "El que es de Dios, escucha las palabras de Dios. (Juan 8,47)",
+    "reflexion": "1 SAMUEL: En 1 Samuel vemos la transición del liderazgo profético al reino humano. La figura de Samuel como servidor fiel, el llamado de David y el drama de Saúl muestran las consecuencias de la obediencia o la desobediencia a Dios. El Señor mira el corazón, no las apariencias. Este libro nos invita a cultivar una relación auténtica con Dios, a escuchar su voz y a confiar en sus caminos, incluso cuando son distintos a los nuestros."
+  },
+{
+    "dia": 121,
+    "antiguo_testamento": "1 Samuel 3 - 1 Samuel 4 - Sabiduría 9 - Sabiduría 10",
+    "frase_biblica": "Fortalézcanse en el Señor y en su fuerza poderosa. (Efesios 6,10)"
+  },
+  {
+    "dia": 122,
+    "antiguo_testamento": "1 Samuel 5 - 1 Samuel 6 - Sabiduría 11 - Sabiduría 12",
+    "frase_biblica": "Tengan paz entre ustedes. (1 Tesalonicenses 5,13)"
+  },
+  {
+    "dia": 123,
+    "antiguo_testamento": "1 Samuel 7 - 1 Samuel 8 - Sabiduría 13 - Sabiduría 14",
+    "frase_biblica": "Si el grano de trigo no muere, queda solo; pero si muere, da mucho fruto. (Juan 12,24)"
+  },
+  {
+    "dia": 124,
+    "antiguo_testamento": "1 Samuel 9 - 1 Samuel 10 - Sabiduría 15 - Sabiduría 16",
+    "frase_biblica": "Abre tu boca en favor del mudo, por el derecho de los desvalidos. (Proverbios 31,8)"
+  },
+  {
+    "dia": 125,
+    "antiguo_testamento": "1 Samuel 11 - 1 Samuel 12 - Sabiduría 17 - Sabiduría 18",
+    "frase_biblica": "Que sus obras brillen delante de los hombres, para que glorifiquen a su Padre. (Mateo 5,16)"
+  },
+  {
+    "dia": 126,
+    "antiguo_testamento": "1 Samuel 13 - 1 Samuel 14 - Sabiduría 19",
+    "frase_biblica": "Hazme andar por la senda de tus mandamientos, porque en ella me complazco. (Salmo 119,35)"
+  },
+  {
+    "dia": 127,
+    "antiguo_testamento": "1 Samuel 15 - 1 Samuel 16 - Eclesiástico 1 - Eclesiástico 2",
+    "frase_biblica": "Quien camina en integridad, camina seguro. (Proverbios 10,9)",
+    "reflexion": "ECLESIÁSTICO (SIRÁCIDA): Eclesiástico ofrece una rica enseñanza moral y espiritual basada en la experiencia, la tradición y la Ley del Señor. Es una guía práctica para la vida cotidiana, llena de consejos sobre la amistad, la humildad, la sabiduría y el respeto por los padres y los ancianos. Nos invita a vivir con rectitud, buscando siempre la voluntad de Dios. Es una joya de espiritualidad que une sabiduría antigua con profundidad religiosa."
+  },
+  {
+    "dia": 128,
+    "antiguo_testamento": "1 Samuel 17 - 1 Samuel 18 - Eclesiástico 3 - Eclesiástico 4",
+    "frase_biblica": "Sean sobrios y estén alerta. (1 Pedro 5,8)"
+  },
+  {
+    "dia": 129,
+    "antiguo_testamento": "1 Samuel 19 - 1 Samuel 20 - Eclesiástico 5 - Eclesiástico 6",
+    "frase_biblica": "Señor, tú lo sabes todo, tú sabes que te amo. (Juan 21,17)"
+  },
+  {
+    "dia": 130,
+    "antiguo_testamento": "1 Samuel 21 - 1 Samuel 22 - Eclesiástico 7 - Eclesiástico 8",
+    "frase_biblica": "Tus palabras fueron mi gozo y la alegría de mi corazón. (Jeremías 15,16)"
+  },
+  {
+      "dia": 131,
+      "antiguo_testamento": "1 Samuel 23 - 1 Samuel 24 - Eclesiástico 9 - Eclesiástico 10",
+      "frase_biblica": "Quien a ustedes escucha, a mí me escucha. (Lucas 10,16)"
+    },
+    {
+      "dia": 132,
+      "antiguo_testamento": "1 Samuel 25 - 1 Samuel 26 - Eclesiástico 11 - Eclesiástico 12",
+      "frase_biblica": "Con amor eterno te he amado. (Jeremías 31,3)"
+    },
+    {
+      "dia": 133,
+      "antiguo_testamento": "1 Samuel 27 - 1 Samuel 28 - Eclesiástico 13 - Eclesiástico 14",
+      "frase_biblica": "El que practica la verdad, se acerca a la luz. (Juan 3,21)"
+    },
+    {
+      "dia": 134,
+      "antiguo_testamento": "1 Samuel 29 - 1 Samuel 30 - 1 Samuel 31 - Eclesiástico 15 - Eclesiástico 16",
+      "frase_biblica": "A cada uno le es dada la manifestación del Espíritu para el bien común. (1 Corintios 12,7)"
+    },
+    {
+      "dia": 135,
+      "antiguo_testamento": "2 Samuel 1 - 2 Samuel 2 - Eclesiástico 17 - Eclesiástico 18",
+      "frase_biblica": "Derrama, Señor, tu espíritu sobre nosotros. (Isaías 32,15)",
+      "reflexion": "2 SAMUEL: En 2 Samuel contemplamos el reinado de David, con sus luces y sombras. Su unción como rey, sus conquistas y su deseo de construir un templo para Dios muestran un corazón apasionado por el Señor. Sin embargo, también se revelan sus caídas, especialmente en el pecado con Betsabé. A pesar de sus errores, David se reconoce pecador, se arrepiente con sinceridad y sigue buscando a Dios. Este libro nos enseña que la grandeza no está en la perfección, sino en la humildad para volver al Señor con un corazón contrito."
+    },
+    {
+      "dia": 136,
+      "antiguo_testamento": "2 Samuel 3 - 2 Samuel 4 - Eclesiástico 19 - Eclesiástico 20",
+      "frase_biblica": "El que recoge conmigo, no desparrama. (Lucas 11,23)"
+    },
+    {
+      "dia": 137,
+      "antiguo_testamento": "2 Samuel 5 - 2 Samuel 6 - Eclesiástico 21 - Eclesiástico 22",
+      "frase_biblica": "¡Qué hermosos son sobre los montes los pies del mensajero que anuncia la paz! (Isaías 52,7)"
+    },
+    {
+      "dia": 138,
+      "antiguo_testamento": "2 Samuel 7 - 2 Samuel 8 - Eclesiástico 23 - Eclesiástico 24",
+      "frase_biblica": "Haz todo lo que esté a tu alcance, y confía en Dios. (Eclesiástico 9,10)"
+    },
+    {
+      "dia": 139,
+      "antiguo_testamento": "2 Samuel 9 - 2 Samuel 10 - Eclesiástico 25 - Eclesiástico 26",
+      "frase_biblica": "El temor del Señor es gloria y honor, alegría y corona de gozo. (Eclesiástico 1,11)"
+    },
+    {
+      "dia": 140,
+      "antiguo_testamento": "2 Samuel 11 - 2 Samuel 12 - Eclesiástico 27 - Eclesiástico 28",
+      "frase_biblica": "La sabiduría es un espíritu amante del hombre. (Sabiduría 1,6)"
+    },
+    {
+    "dia": 141,
+    "antiguo_testamento": "2 Samuel 13 - 2 Samuel 14 - Eclesiástico 29 - Eclesiástico 30",
+    "frase_biblica": "Dame, hijo mío, tu corazón, y que tus ojos sigan mis caminos. (Proverbios 23,26)"
+  },
+  {
+    "dia": 142,
+    "antiguo_testamento": "2 Samuel 15 - 2 Samuel 16 - Eclesiástico 31 - Eclesiástico 32",
+    "frase_biblica": "Bienaventurado el que encuentra sabiduría. (Proverbios 3,13)"
+  },
+  {
+    "dia": 143,
+    "antiguo_testamento": "2 Samuel 17 - 2 Samuel 18 - Eclesiástico 33 - Eclesiástico 34",
+    "frase_biblica": "Reciban con mansedumbre la palabra sembrada en ustedes. (Santiago 1,21)"
+  },
+  {
+    "dia": 144,
+    "antiguo_testamento": "2 Samuel 19 - 2 Samuel 20 - Eclesiástico 35 - Eclesiástico 36",
+    "frase_biblica": "Por sus frutos los reconocerán. (Mateo 7,16)"
+  },
+  {
+    "dia": 145,
+    "antiguo_testamento": "2 Samuel 21 - 2 Samuel 22 - Eclesiástico 37 - Eclesiástico 38",
+    "frase_biblica": "El Señor conoce a los que son suyos. (2 Timoteo 2,19)"
+  },
+  {
+    "dia": 146,
+    "antiguo_testamento": "2 Samuel 23 - 2 Samuel 24 - Eclesiástico 39 - Eclesiástico 40",
+    "frase_biblica": "No hay otro Dios fuera de mí. (Isaías 45,5)"
+  },
+  {
+    "dia": 147,
+    "antiguo_testamento": "1 Reyes 1 - 1 Reyes 2 - Eclesiástico 41 - Eclesiástico 42",
+    "frase_biblica": "El Señor sostiene a todos los que caen. (Salmo 145,14)",
+    "reflexion": "1 REYES: 1 Reyes nos presenta la consolidación del reino de Israel bajo Salomón, la construcción del Templo y el inicio de la decadencia espiritual del pueblo. La sabiduría de Salomón, su oración y su espléndido templo contrastan con su debilidad ante la idolatría. Con la división del reino y la aparición de profetas como Elías, se muestra que la verdadera fidelidad no depende del poder, sino de una escucha constante a la voz de Dios. Este libro nos invita a escoger entre la sabiduría divina o los caminos que alejan del Señor."
+  },
+  {
+    "dia": 148,
+    "antiguo_testamento": "1 Reyes 3 - 1 Reyes 4 - Eclesiástico 43 - Eclesiástico 44",
+    "frase_biblica": "Donde está el Espíritu del Señor, allí hay libertad. (2 Corintios 3,17)"
+  },
+  {
+    "dia": 149,
+    "antiguo_testamento": "1 Reyes 5 - 1 Reyes 6 - Eclesiástico 45 - Eclesiástico 46",
+    "frase_biblica": "Velen y oren para que no caigan en tentación. (Mateo 26,41)"
+  },
+  {
+    "dia": 150,
+    "antiguo_testamento": "1 Reyes 7 - 1 Reyes 8 - Eclesiástico 47 - Eclesiástico 48",
+    "frase_biblica": "Este es el día que hizo el Señor: alegrémonos y regocijémonos en él. (Salmo 118,24)"
+  },
+{
+    "dia": 151,
+    "antiguo_testamento": "1 Reyes 9 - 1 Reyes 10 - Eclesiástico 49 - Eclesiástico 50 - Eclesiástico 51",
+    "frase_biblica": "Quien cree en mí, aunque muera, vivirá. (Juan 11,25)"
+  },
+  {
+    "dia": 152,
+    "antiguo_testamento": "1 Reyes 11 - 1 Reyes 12 - Tobías 1 - Tobías 2",
+    "frase_biblica": "El que se humilla será enaltecido. (Lucas 14,11)",
+    "reflexion": "TOBÍAS: Tobías es una joya espiritual que nos muestra cómo Dios guía a los suyos incluso en lo oculto. La presencia del ángel Rafael revela que la Providencia divina está activa en lo cotidiano. El amor filial, la oración, la limosna y la confianza en Dios son los pilares de esta historia. Este libro nos invita a vivir con esperanza, sabiendo que nada escapa a los ojos de Dios, que siempre actúa para bien de quienes le aman."
+  },
+  {
+    "dia": 153,
+    "antiguo_testamento": "1 Reyes 13 - 1 Reyes 14 - Tobías 3 - Tobías 4",
+    "frase_biblica": "Te alabaré, Señor, porque me has rescatado. (Salmo 30,2)"
+  },
+  {
+    "dia": 154,
+    "antiguo_testamento": "1 Reyes 15 - 1 Reyes 16 - Tobías 5 - Tobías 6",
+    "frase_biblica": "Alegraos con los que están alegres, llorad con los que lloran. (Romanos 12,15)"
+  },
+  {
+    "dia": 155,
+    "antiguo_testamento": "1 Reyes 17 - 1 Reyes 18 - Tobías 7 - Tobías 8 - Tobías 9",
+    "frase_biblica": "Derramaré mi espíritu sobre toda carne. (Joel 3,1)"
+  },
+{
+    "dia": 156,
+    "antiguo_testamento": "1 Reyes 19 - 1 Reyes 20 - Tobías 10 - Tobías 11",
+    "frase_biblica": "Aquel que es poderoso para confirmarlos... a él la gloria por los siglos. (Romanos 16,25-27)"
+  },
+  {
+    "dia": 157,
+    "antiguo_testamento": "1 Reyes 21 - 1 Reyes 22 - Tobías 12 - Tobías 13 - Tobías 14",
+    "frase_biblica": "El Señor ha hecho grandes cosas por nosotros, y estamos alegres. (Salmo 126,3)"
+  },
+  {
+    "dia": 158,
+    "antiguo_testamento": "2 Reyes 1 - 2 Reyes 2 - Judit 1 - Judit 2",
+    "frase_biblica": "Sean perfectos como su Padre celestial es perfecto. (Mateo 5,48)",
+    "reflexion": "2 REYES: En 2 Reyes se narra la historia de los reinos divididos hasta su caída. A través de los profetas Elías y Eliseo, Dios continúa hablando a su pueblo, llamando a la conversión y a la justicia. A pesar de los constantes rechazos y de la idolatría generalizada, Dios permanece fiel. El exilio no es el final, sino una oportunidad para renovar la alianza desde el corazón. Este libro nos recuerda que incluso en medio de la ruina, Dios no abandona, y que su misericordia siempre está dispuesta a restaurar lo que se ha perdido.",
+    "reflexion_2": "JUDIT: Judit relata la valentía de una mujer de fe que, con inteligencia y confianza en Dios, libera a su pueblo. Frente a un enemigo imponente, Judith muestra que la verdadera fuerza nace de la fidelidad y la oración. Este libro resalta el papel fundamental de la mujer creyente como instrumento de salvación. Judith nos impulsa a actuar con valentía y a no temer cuando el Señor va delante de nosotros."
+  },
+  {
+    "dia": 159,
+    "antiguo_testamento": "2 Reyes 3 - 2 Reyes 4 - Judit 3 - Judit 4",
+    "frase_biblica": "Mis pensamientos no son sus pensamientos, ni sus caminos mis caminos. (Isaías 55,8)"
+  },
+  {
+    "dia": 160,
+    "antiguo_testamento": "2 Reyes 5 - 2 Reyes 6 - Judit 5 - Judit 6",
+    "frase_biblica": "La sabiduría resplandece y no se marchita. (Sabiduría 6,12)"
+  },
+{
+    "dia": 161,
+    "antiguo_testamento": "2 Reyes 7 - 2 Reyes 8 - Judit 7 - Judit 8",
+    "frase_biblica": "La esperanza no defrauda, porque el amor de Dios ha sido derramado en nuestros corazones. (Romanos 5,5)"
+  },
+  {
+    "dia": 162,
+    "antiguo_testamento": "2 Reyes 9 - 2 Reyes 10 - Judit 9 - Judit 10",
+    "frase_biblica": "Acuérdate de tu Creador en los días de tu juventud. (Eclesiastés 12,1)"
+  },
+  {
+    "dia": 163,
+    "antiguo_testamento": "2 Reyes 11 - 2 Reyes 12 - Judit 11 - Judit 12",
+    "frase_biblica": "No pongan su esperanza en las riquezas, sino en Dios. (1 Timoteo 6,17)"
+  },
+  {
+    "dia": 164,
+    "antiguo_testamento": "2 Reyes 13 - 2 Reyes 14 - Judit 13 - Judit 14",
+    "frase_biblica": "Fiel es el Señor en todas sus palabras. (Salmo 145,13)"
+  },
+  {
+    "dia": 165,
+    "antiguo_testamento": "2 Reyes 15 - 2 Reyes 16 - Judit 15 - Judit 16",
+    "frase_biblica": "Apártate del mal y haz el bien; busca la paz y síguela. (Salmo 34,15)"
+  },
+  {
+    "dia": 166,
+    "antiguo_testamento": "2 Reyes 17 - 2 Reyes 18 - 1 Macabeos 1",
+    "salmos_proverbios": "Salmo 71",
+    "frase_biblica": "Este es mi Hijo amado, escúchenlo. (Marcos 9,7)",
+    "reflexion": "1 MACABEOS: 1 Macabeos narra la lucha del pueblo judío por conservar su fe en tiempos de persecución. La valentía de los Macabeos, su fidelidad a la Ley y su entrega a Dios, son un testimonio de resistencia espiritual. Este libro nos recuerda que hay momentos en los que la fidelidad exige sacrificio, y que Dios fortalece a quienes defienden la verdad. Es una invitación a mantenernos firmes, incluso cuando el entorno nos empuje a renunciar a lo sagrado."
+  },
+  {
+    "dia": 167,
+    "antiguo_testamento": "2 Reyes 19 - 2 Reyes 20 - 1 Macabeos 2",
+    "salmos_proverbios": "Salmo 72",
+    "frase_biblica": "Yo soy el Alfa y la Omega, dice el Señor. (Apocalipsis 1,8)"
+  },
+  {
+    "dia": 168,
+    "antiguo_testamento": "2 Reyes 21 - 2 Reyes 22 - 1 Macabeos 3",
+    "salmos_proverbios": "Salmo 73",
+    "nuevo_testamento": "1 Timoteo 4",
+    "frase_biblica": "No se turbe su corazón ni se acobarde. (Juan 14,27)"
+  },
+  {
+    "dia": 169,
+    "antiguo_testamento": "2 Reyes 23 - 2 Reyes 24 - 1 Macabeos 4",
+    "salmos_proverbios": "Salmo 74",
+    "frase_biblica": "Que el Señor conduzca sus corazones al amor de Dios. (2 Tesalonicenses 3,5)"
+  },
+  {
+    "dia": 170,
+    "antiguo_testamento": "2 Reyes 25 - 1 Macabeos 5",
+    "salmos_proverbios": "Salmo 75",
+    "frase_biblica": "Alegra el alma de tu siervo, porque a ti, Señor, elevo mi alma. (Salmo 86,4)"
+  },
+{
+    "dia": 171,
+    "antiguo_testamento": "1 Crónicas 1 - 1 Crónicas 2 - 1 Macabeos 6",
+    "salmos_proverbios": "Salmo 76",
+    "frase_biblica": "Sean misericordiosos en su juicio. (Sabiduría 6,6)"
+  },
+  {
+    "dia": 172,
+    "antiguo_testamento": "1 Crónicas 3 - 1 Crónicas 4 - 1 Macabeos 7",
+    "salmos_proverbios": "Salmo 77",
+    "frase_biblica": "Como un lirio entre los cardos, así es mi amada entre las jóvenes. (Cantar de los Cantares 2,2)"
+  },
+  {
+    "dia": 173,
+    "antiguo_testamento": "1 Crónicas 5 - 1 Crónicas 6 - 1 Macabeos 8",
+    "salmos_proverbios": "Salmo 78",
+    "frase_biblica": "El que practica el bien es de Dios. (3 Juan 1,11)"
+  },
+  {
+    "dia": 174,
+    "antiguo_testamento": "1 Crónicas 7 - 1 Crónicas 8 - 1 Macabeos 9",
+    "salmos_proverbios": "Salmo 79",
+    "frase_biblica": "Con su amor eterno te ha redimido el Señor, tu redentor. (Isaías 54,8)"
+  },
+  {
+    "dia": 175,
+    "antiguo_testamento": "1 Crónicas 9 - 1 Crónicas 10 - 1 Macabeos 10",
+    "salmos_proverbios": "Salmo 80",
+    "nuevo_testamento": "Tito 1",
+    "frase_biblica": "Tu derecho es como la luz del alba. (Oseas 6,5)"
+  },
+  {
+    "dia": 176,
+    "antiguo_testamento": "1 Crónicas 11 - 1 Crónicas 12 - 1 Macabeos 11",
+    "salmos_proverbios": "Salmo 81",
+    "frase_biblica": "Levantaos y caminemos. (Nehemías 2,18)"
+  },
+  {
+    "dia": 177,
+    "antiguo_testamento": "1 Crónicas 13 - 1 Crónicas 14 - 1 Macabeos 12",
+    "salmos_proverbios": "Salmo 82",
+    "frase_biblica": "El Señor me ha enviado para dar la Buena Noticia a los pobres. (Lucas 4,18)"
+  },
+  {
+    "dia": 178,
+    "antiguo_testamento": "1 Crónicas 15 - 1 Crónicas 16 - 1 Macabeos 13",
+    "salmos_proverbios": "Salmo 83",
+    "frase_biblica": "Ama la justicia, tú que gobiernas la tierra. (Sabiduría 1,1)"
+  },
+  {
+    "dia": 179,
+    "antiguo_testamento": "1 Crónicas 17 - 1 Crónicas 18 - 1 Macabeos 14",
+    "salmos_proverbios": "Salmo 84",
+    "nuevo_testamento": "Hebreos 1",
+    "frase_biblica": "El que guarda la palabra de Cristo, en él el amor de Dios ha llegado a su plenitud. (1 Juan 2,5)"
+  },
+  {
+    "dia": 180,
+    "antiguo_testamento": "1 Crónicas 19 - 1 Crónicas 20 - 1 Macabeos 15",
+    "salmos_proverbios": "Salmo 85",
+    "frase_biblica": "No imiten el mal, sino el bien. (3 Juan 1,11)"
+  },
+{
+    "dia": 181,
+    "antiguo_testamento": "1 Crónicas 21 - 1 Crónicas 22 - 1 Macabeos 16",
+    "salmos_proverbios": "Salmo 86",
+    "frase_biblica": "Mi alma se gloría en el Señor; que lo oigan los humildes y se alegren. (Salmo 34,3)"
+  },
+  {
+    "dia": 182,
+    "antiguo_testamento": "1 Crónicas 23 - 1 Crónicas 24 - 2 Macabeos 1",
+    "salmos_proverbios": "Salmo 87",
+    "frase_biblica": "Señor, ¿a quién iremos? Tú tienes palabras de vida eterna. (Juan 6,68)",
+    "reflexion": "2 MACABEOS: 2 Macabeos complementa el relato del primer libro, pero con un enfoque más teológico. Resalta la esperanza en la resurrección, la intercesión de los santos y el valor del sufrimiento ofrecido a Dios. Los mártires y sus familias nos enseñan que la fe trasciende la muerte. Este libro ilumina el poder del testimonio fiel y nos fortalece en la esperanza de que, más allá del dolor, hay vida eterna para quienes confían en el Señor."
+  },
+  {
+    "dia": 183,
+    "antiguo_testamento": "1 Crónicas 25 - 1 Crónicas 26 - 2 Macabeos 2",
+    "salmos_proverbios": "Salmo 88",
+    "frase_biblica": "Que su fe no desfallezca. (Lucas 22,32)"
+  },
+  {
+    "dia": 184,
+    "antiguo_testamento": "1 Crónicas 27 - 1 Crónicas 28 - 1 Crónicas 29 - 2 Macabeos 3",
+    "salmos_proverbios": "Salmo 89",
+    "frase_biblica": "El Señor es lento para la ira y grande en amor. (Nahúm 1,3)"
+  },
+  {
+    "dia": 185,
+    "antiguo_testamento": "2 Crónicas 1 - 2 Crónicas 2 - 2 Macabeos 4",
+    "salmos_proverbios": "Salmo 90",
+    "frase_biblica": "Yo seré su Dios y ellos serán mi pueblo. (Jeremías 31,33)",
+    "reflexion": "2 CRÓNICAS: 2 Crónicas continúa la historia desde Salomón hasta el exilio, enfocándose en los reyes que buscaron a Dios y en la importancia del Templo como lugar de encuentro con Él. Aunque se repiten algunos relatos de los Reyes, aquí se resalta cómo la obediencia trae bendición y la infidelidad, ruina. El libro termina con una nota de esperanza: el edicto de Ciro que permite el regreso del pueblo. Es un llamado a confiar en que Dios no olvida sus promesas y siempre ofrece un nuevo comienzo."
+  },
+  {
+    "dia": 186,
+    "antiguo_testamento": "2 Crónicas 3 - 2 Crónicas 4 - 2 Macabeos 5",
+    "salmos_proverbios": "Salmo 91",
+    "frase_biblica": "Feliz el que considera al débil; en el día adverso lo librará el Señor. (Salmo 41,2)"
+  },
+{
+    "dia": 187,
+    "antiguo_testamento": "2 Crónicas 5 - 2 Crónicas 6 - 2 Macabeos 6",
+    "salmos_proverbios": "Salmo 92",
+    "frase_biblica": "Sean fuertes, no teman. Miren a su Dios que viene a salvarlos. (Isaías 35,4)"
+  },
+  {
+    "dia": 188,
+    "antiguo_testamento": "2 Crónicas 7 - 2 Crónicas 8 - 2 Macabeos 7",
+    "salmos_proverbios": "Salmo 93",
+    "frase_biblica": "Hagan penitencia y conviértanse, para que sus pecados sean borrados. (Hechos 3,19)"
+  },
+  {
+    "dia": 189,
+    "antiguo_testamento": "2 Crónicas 9 - 2 Crónicas 10 - 2 Macabeos 8",
+    "salmos_proverbios": "Salmo 94",
+    "frase_biblica": "El Señor ha estado grande con nosotros y estamos alegres. (Salmo 126,3)"
+  },
+  {
+    "dia": 190,
+    "antiguo_testamento": "2 Crónicas 11 - 2 Crónicas 12 - 2 Macabeos 9",
+    "salmos_proverbios": "Salmo 95",
+    "frase_biblica": "Consolarás a todos los afligidos. (Isaías 61,2)"
+  },
+  {
+    "dia": 191,
+    "antiguo_testamento": "2 Crónicas 13 - 2 Crónicas 14 - 2 Macabeos 10",
+    "salmos_proverbios": "Salmo 96",
+    "frase_biblica": "La paz les dejo, mi paz les doy. (Juan 14,27)"
+  },
+  {
+    "dia": 192,
+    "antiguo_testamento": "2 Crónicas 15 - 2 Crónicas 16 - 2 Macabeos 11",
+    "salmos_proverbios": "Salmo 97",
+    "frase_biblica": "Hagan fructificar los talentos que recibieron. (Mateo 25,27)"
+  },
+  {
+    "dia": 193,
+    "antiguo_testamento": "2 Crónicas 17 - 2 Crónicas 18 - 2 Macabeos 12",
+    "salmos_proverbios": "Salmo 98",
+    "frase_biblica": "Sean buenos administradores de la gracia multiforme de Dios. (1 Pedro 4,10)"
+  },
+  {
+    "dia": 194,
+    "antiguo_testamento": "2 Crónicas 19 - 2 Crónicas 20 - 2 Macabeos 13",
+    "salmos_proverbios": "Salmo 99",
+    "frase_biblica": "Felices los que escuchan la palabra de Dios y la guardan. (Lucas 11,28)"
+  },
+  {
+    "dia": 195,
+    "antiguo_testamento": "2 Crónicas 21 - 2 Crónicas 22 - 2 Macabeos 14",
+    "salmos_proverbios": "Salmo 100",
+    "frase_biblica": "El que ama a su hermano, permanece en la luz. (1 Juan 2,10)"
+  },
+  {
+    "dia": 196,
+    "antiguo_testamento": "2 Crónicas 23 - 2 Crónicas 24 - 2 Macabeos 15",
+    "salmos_proverbios": "Salmo 101",
+    "frase_biblica": "Busquen el bien y no el mal, para que vivan. (Amós 5,14)"
+  },
+  {
+    "dia": 197,
+    "antiguo_testamento": "2 Crónicas 25 - 2 Crónicas 26",
+    "salmos_proverbios": "Proverbios 1 - Proverbios 2 - Salmo 102",
+    "frase_biblica": "Confía en el Señor y haz el bien. (Salmo 37,3)",
+    "reflexion": "PROVERBIOS: Proverbios ofrece enseñanzas prácticas para vivir con sabiduría, justicia y temor de Dios. A través de consejos sobre la conducta, las palabras y las relaciones humanas, llama a elegir el camino de la rectitud frente a la insensatez. Nos recuerda que la verdadera sabiduría transforma la vida diaria y nos conduce a una existencia plena en Dios."
+  },
+  {
+    "dia": 198,
+    "antiguo_testamento": "2 Crónicas 27 - 2 Crónicas 28",
+    "salmos_proverbios": "Proverbios 3 - Proverbios 4 - Salmo 103",
+    "frase_biblica": "Yo estoy contigo para salvarte. (Jeremías 15,20)"
+  },
+  {
+    "dia": 199,
+    "antiguo_testamento": "2 Crónicas 29 - 2 Crónicas 30",
+    "salmos_proverbios": "Proverbios 5 - Proverbios 6 - Salmo 104",
+    "frase_biblica": "El Señor me responde en el día que lo invoco. (Salmo 138,3)"
+  },
+  {
+    "dia": 200,
+    "antiguo_testamento": "2 Crónicas 31 - 2 Crónicas 32",
+    "salmos_proverbios": "Proverbios 7 - Proverbios 8 - Salmo 105",
+    "frase_biblica": "Con los humildes está la sabiduría. (Proverbios 11,2)"
+  },
+  {
+    "dia": 201,
+    "antiguo_testamento": "2 Crónicas 33 - 2 Crónicas 34",
+    "salmos_proverbios": "Proverbios 9 - Proverbios 10",
+    "frase_biblica": "Derrama como agua tu corazón en presencia del Señor. (Lamentaciones 2,19)"
+  },
+  {
+    "dia": 202,
+    "antiguo_testamento": "2 Crónicas 35 - 2 Crónicas 36",
+    "salmos_proverbios": "Proverbios 11",
+    "frase_biblica": "Yahvé es compasivo y clemente, lento a la ira y rico en amor. (Salmo 103,8)"
+  },
+  {
+    "dia": 203,
+    "antiguo_testamento": "Esdras 1 - Esdras 2",
+    "salmos_proverbios": "Proverbios 12",
+    "frase_biblica": "No tengan miedo, porque el Señor, su Dios, combate por ustedes. (Deuteronomio 3,22)",
+    "reflexion": "ESDRAS: El libro de Esdras narra el regreso del pueblo del exilio y la reconstrucción del Templo. A través del liderazgo de Esdras, se restauran no solo los muros, sino también la vida espiritual de Israel. Este libro destaca la importancia de la Palabra de Dios, de la comunidad y del arrepentimiento sincero. Nos enseña que, incluso después de tiempos difíciles, Dios renueva a su pueblo cuando hay disposición de corazón. Volver a Dios es posible siempre que escuchemos su voz con humildad."
+  },
+  {
+    "dia": 204,
+    "antiguo_testamento": "Esdras 3 - Esdras 4",
+    "salmos_proverbios": "Proverbios 13",
+    "frase_biblica": "Dichosos los que tienen hambre y sed de justicia, porque serán saciados. (Mateo 5,6)"
+  },
+  {
+    "dia": 205,
+    "antiguo_testamento": "Esdras 5 - Esdras 6",
+    "salmos_proverbios": "Proverbios 14",
+    "frase_biblica": "El Señor está cerca de los que tienen el corazón destrozado. (Salmo 34,19)"
+  },
+  {
+    "dia": 206,
+    "antiguo_testamento": "Esdras 7 - Esdras 8",
+    "salmos_proverbios": "Proverbios 15",
+    "frase_biblica": "Todo lo hizo hermoso en su tiempo. (Eclesiastés 3,11)"
+  },
+  {
+    "dia": 207,
+    "antiguo_testamento": "Esdras 9 - Esdras 10",
+    "salmos_proverbios": "Proverbios 16",
+    "frase_biblica": "Jesús, acuérdate de mí, cuando vengas con tu Reino. (Lucas 23,42)"
+  },
+  {
+    "dia": 208,
+    "antiguo_testamento": "Nehemías 1 - Nehemías 2",
+    "salmos_proverbios": "Proverbios 17",
+    "frase_biblica": "El Señor te bendiga y te proteja. (Números 6,24)",
+    "reflexion": "NEHEMÍAS: Nehemías complementa el relato de Esdras, destacando la reconstrucción de los muros de Jerusalén como signo de identidad y protección. Más allá de las piedras, se trata de restaurar una comunidad guiada por la fe y la justicia. Nehemías, hombre de oración y acción, nos enseña que todo proyecto humano debe nacer del diálogo con Dios. Este libro es una invitación a edificar nuestra vida sobre la roca de la voluntad divina."
+  },
+  {
+    "dia": 209,
+    "antiguo_testamento": "Nehemías 3 - Nehemías 4",
+    "salmos_proverbios": "Proverbios 18",
+    "frase_biblica": "Mantengamos firme la esperanza que profesamos, porque fiel es el que hizo la promesa. (Hebreos 10,23)"
+  },
+  {
+    "dia": 210,
+    "antiguo_testamento": "Nehemías 5 - Nehemías 6",
+    "salmos_proverbios": "Proverbios 19",
+    "frase_biblica": "He aquí la sierva del Señor; hágase en mí según tu palabra. (Lucas 1,38)"
+  },
+  {
+    "dia": 211,
+    "antiguo_testamento": "Nehemías 7 - Nehemías 8",
+    "salmos_proverbios": "Proverbios 20",
+    "frase_biblica": "El Señor no mira como el hombre: el hombre ve la apariencia, pero el Señor mira el corazón. (1 Samuel 16,7)"
+  },
+  {
+    "dia": 212,
+    "antiguo_testamento": "Nehemías 9 - Nehemías 10",
+    "salmos_proverbios": "Proverbios 21",
+    "frase_biblica": "El justo brilla como luz en las tinieblas. (Salmo 112,4)"
+  },
+  {
+    "dia": 213,
+    "antiguo_testamento": "Nehemías 11 - Nehemías 12",
+    "salmos_proverbios": "Proverbios 22 - Salmo 106",
+    "frase_biblica": "Mis ovejas escuchan mi voz; yo las conozco y ellas me siguen. (Juan 10,27)"
+  },
+  {
+    "dia": 214,
+    "antiguo_testamento": "Nehemías 13",
+    "salmos_proverbios": "Proverbios 23 - Salmo 107",
+    "frase_biblica": "Pongan por obra la palabra y no se contenten solo con oírla. (Santiago 1,22)"
+  },
+  {
+    "dia": 215,
+    "antiguo_testamento": "Ester 1 - Ester 2",
+    "salmos_proverbios": "Proverbios 24 - Salmo 108",
+    "frase_biblica": "Porque yo sé en quién he puesto mi confianza. (2 Timoteo 1,12)",
+    "reflexion": "ESTER: Ester es la historia de una reina valiente que arriesga su vida por su pueblo. Aunque Dios no se menciona explícitamente, su providencia se percibe en cada página. La acción divina se manifiesta en los giros inesperados que salvan al pueblo. Este libro nos recuerda que, incluso en el silencio, Dios está presente y actúa. Ester nos anima a ser instrumentos de justicia y a confiar en la intervención de Dios en los momentos más difíciles."
+  },
+  {
+    "dia": 216,
+    "antiguo_testamento": "Ester 3 - Ester 4",
+    "salmos_proverbios": "Proverbios 25 - Salmo 109",
+    "frase_biblica": "Pidan y se les dará, busquen y encontrarán, llamen y se les abrirá. (Mateo 7,7)"
+  },
+  {
+    "dia": 217,
+    "antiguo_testamento": "Ester 5 - Ester 6",
+    "salmos_proverbios": "Proverbios 26 - Salmo 110",
+    "frase_biblica": "Camina en mi presencia y sé perfecto. (Génesis 17,1)"
+  },
+  {
+    "dia": 218,
+    "antiguo_testamento": "Ester 7 - Ester 8",
+    "salmos_proverbios": "Proverbios 27 - Salmo 111",
+    "frase_biblica": "La lámpara del Señor escruta el espíritu del hombre. (Proverbios 20,27)"
+  },
+  {
+    "dia": 219,
+    "antiguo_testamento": "Ester 9 - Ester 10",
+    "salmos_proverbios": "Proverbios 28 - Salmo 112",
+    "frase_biblica": "Haz lo que está en tu mano, pues Dios está contigo. (1 Samuel 10,7)"
+  },
+  {
+    "dia": 220,
+    "antiguo_testamento": "Ester 11 - Ester 12",
+    "salmos_proverbios": "Proverbios 29 - Salmo 113",
+    "frase_biblica": "Cristo murió por nuestros pecados, según las Escrituras. (1 Corintios 15,3)"
+  },
+  {
+    "dia": 221,
+    "antiguo_testamento": "Ester 13 - Ester 14",
+    "salmos_proverbios": "Proverbios 30 - Salmo 114",
+    "frase_biblica": "Yo soy la resurrección y la vida. (Juan 11,25)"
+  },
+  {
+    "dia": 222,
+    "antiguo_testamento": "Ester 15 - Ester 16",
+    "salmos_proverbios": "Proverbios 31 - Salmo 115",
+    "frase_biblica": "Dichoso el que no se escandaliza de mí. (Mateo 11,6)"
+  },
+  {
+    "dia": 223,
+    "antiguo_testamento": "Job 1 - Job 2",
+    "salmos_proverbios": "Salmo 116",
+    "nuevo_testamento": "Romanos 1",
+    "frase_biblica": "La palabra de Dios es viva y eficaz. (Hebreos 4,12)",
+    "reflexion": "JOB: Job enfrenta el gran misterio del sufrimiento humano. A través de su historia, aprendemos que el dolor no siempre es castigo, y que la fe no se basa en recompensas. Job mantiene el diálogo con Dios, aunque no comprenda todo. Finalmente, el Señor se revela no con explicaciones, sino con Su presencia. Este libro nos invita a confiar incluso en medio de la prueba, sabiendo que Dios nunca abandona y que su sabiduría supera nuestro entendimiento."
+  },
+  {
+    "dia": 224,
+    "antiguo_testamento": "Job 3 - Job 4",
+    "salmos_proverbios": "Salmo 117",
+    "nuevo_testamento": "Romanos 2",
+    "frase_biblica": "La dulzura del amigo consuela el alma. (Proverbios 27,9)"
+  },
+  {
+    "dia": 225,
+    "antiguo_testamento": "Job 5 - Job 6",
+    "salmos_proverbios": "Salmo 118",
+    "nuevo_testamento": "Romanos 3",
+    "frase_biblica": "Que su luz brille ante los hombres, para que vean sus buenas obras. (Mateo 5,16)"
+  },
+  {
+    "dia": 226,
+    "antiguo_testamento": "Job 7 - Job 8",
+    "salmos_proverbios": "Salmo 119,1-32",
+    "nuevo_testamento": "Romanos 4",
+    "frase_biblica": "Sean constantes en la oración. (Romanos 12,12)"
+  },
+  {
+    "dia": 227,
+    "antiguo_testamento": "Job 9 - Job 10",
+    "salmos_proverbios": "Salmo 19,33-64",
+    "nuevo_testamento": "Romanos 5",
+    "frase_biblica": "Yo te he amado con un amor eterno. (Jeremías 31,3)"
+  },
+  {
+    "dia": 228,
+    "antiguo_testamento": "Job 11 - Job 12",
+    "salmos_proverbios": "Salmo 119,65-96",
+    "nuevo_testamento": "Romanos 6",
+    "frase_biblica": "El Señor sostiene a los que vacilan y levanta a los que han caído. (Salmo 145,14)"
+  },
+  {
+    "dia": 229,
+    "antiguo_testamento": "Job 13 - Job 14",
+    "salmos_proverbios": "Salmo 119,97-120",
+    "nuevo_testamento": "Romanos 7",
+    "frase_biblica": "ESeñor, tú eres nuestro alfarero, nosotros la arcilla. (Isaías 64,7)"
+  },
+  {
+    "dia": 230,
+    "antiguo_testamento": "Job 15 - Job 16",
+    "salmos_proverbios": "Salmo 119,121-144",
+    "nuevo_testamento": "Romanos 8",
+    "frase_biblica": "Como el Padre me ha amado, así los he amado yo. (Juan 15,9)"
+  },
+  {
+    "dia": 231,
+    "antiguo_testamento": "Job 17 - Job 18",
+    "salmos_proverbios": "Salmo 119,145-176",
+    "nuevo_testamento": "Romanos 9",
+    "frase_biblica": "Lávame totalmente de mi culpa, y purifícame de mi pecado. (Salmo 51,4)"
+  },
+  {
+    "dia": 232,
+    "antiguo_testamento": "Job 19 - Job 20",
+    "salmos_proverbios": "Salmo 120",
+    "nuevo_testamento": "Romanos 10",
+    "frase_biblica": "Los planes del diligente conducen a la abundancia. (Proverbios 21,5)"
+  },
+  {
+    "dia": 233,
+    "antiguo_testamento": "Job 21 - Job 22",
+    "salmos_proverbios": "Salmo 121",
+    "nuevo_testamento": "Romanos 11",
+    "frase_biblica": "Nadie tiene amor más grande que el que da la vida por sus amigos. (Juan 15,13)"
+  },
+  {
+    "dia": 234,
+    "antiguo_testamento": "Job 23 - Job 24",
+    "salmos_proverbios": "Salmo 122",
+    "nuevo_testamento": "Romanos 12",
+    "frase_biblica": "El Señor nos ha dado un espíritu de fortaleza, amor y buen juicio. (2 Timoteo 1,7)"
+  },
+  {
+    "dia": 235,
+    "antiguo_testamento": "Job 25 - Job 26",
+    "salmos_proverbios": "Salmo 123",
+    "nuevo_testamento": "Romanos 13",
+    "frase_biblica": "Haz que yo camine en tu verdad. (Salmo 86,11)"
+  },
+  {
+    "dia": 236,
+    "antiguo_testamento": "Job 27 - Job 28",
+    "salmos_proverbios": "Salmo 124",
+    "nuevo_testamento": "Romanos 14",
+    "frase_biblica": "Yahvé me ha ungido para dar la buena noticia a los humildes. (Isaías 61,1)"
+  },
+  {
+    "dia": 237,
+    "antiguo_testamento": "Job 29 - Job 30",
+    "salmos_proverbios": "Salmo 125",
+    "nuevo_testamento": "Romanos 15",
+    "frase_biblica": "Que el Señor dirija sus corazones hacia el amor y la constancia de Cristo. (2 Tesalonicenses 3,5)"
+  },
+  {
+    "dia": 238,
+    "antiguo_testamento": "Job 31 - Job 32",
+    "salmos_proverbios": "Salmo 126",
+    "nuevo_testamento": "Romanos 16",
+    "frase_biblica": "Si ustedes permanecen en mi palabra, serán verdaderamente mis discípulos. (Juan 8,31)"
+  },
+  {
+    "dia": 239,
+    "antiguo_testamento": "Job 33 - Job 34",
+    "salmos_proverbios": "Salmo 127",
+    "nuevo_testamento": "1 Corintios 1",
+    "frase_biblica": "No abandones a tus antiguos amigos. (Eclesiástico 9,10)",
+    "reflexion": "PRIMERA CARTA A LOS CORINTIOS: Pablo exhorta a una comunidad dividida a vivir en unidad, caridad y orden. En esta carta se destacan temas fundamentales como la Eucaristía, los dones del Espíritu y el amor como el camino más excelente. También ofrece una enseñanza poderosa sobre la resurrección. Nos recuerda que la comunidad cristiana debe edificarse sobre Cristo, con humildad y espíritu fraterno."
+  },
+  {
+    "dia": 240,
+    "antiguo_testamento": "Job 35 - Job 36",
+    "salmos_proverbios": "Salmo 128",
+    "nuevo_testamento": "1 Corintios 2",
+    "frase_biblica": "Encomienda tu camino al Señor; confía en él y él actuará. (Salmo 37,5)"
+  },
+  {
+    "dia": 241,
+    "antiguo_testamento": "Job 37 - Job 38",
+    "salmos_proverbios": "Salmo 129",
+    "nuevo_testamento": "1 Corintios 3",
+    "frase_biblica": "No hay nada oculto que no llegue a saberse. (Lucas 8,17)"
+  },
+  {
+    "dia": 242,
+    "antiguo_testamento": "Job 39 - Job 40",
+    "salmos_proverbios": "Salmo 130",
+    "nuevo_testamento": "1 Corintios 4",
+    "frase_biblica": "Sé como un padre para los huérfanos, y como un esposo para su madre. (Job 29,16)"
+  },
+  {
+    "dia": 243,
+    "antiguo_testamento": "Job 41 - Job 42",
+    "salmos_proverbios": "Salmo 131",
+    "nuevo_testamento": "1 Corintios 5",
+    "frase_biblica": "El Señor no retarda su promesa, aunque algunos piensen que tarda. (2 Pedro 3,9)"
+  },
+  {
+    "dia": 244,
+    "antiguo_testamento": "Eclesiastés 1 - Eclesiastés 2",
+    "salmos_proverbios": "Salmo 132",
+    "nuevo_testamento": "1 Corintios 6",
+    "frase_biblica": "Guarda silencio ante el Señor y espera en él. (Salmo 37,7)",
+    "reflexion": "ECLESIASTÉS: Eclesiastés nos enfrenta con la fugacidad de la vida y la aparente vanidad de todo lo humano. Su mensaje, profundo y realista, nos invita a no buscar sentido en los bienes pasajeros, sino en el temor de Dios. A pesar del tono melancólico, hay una sabiduría serena que nos llama a vivir cada día como don y a reconocer que todo proviene de la mano del Señor. Solo Dios da sentido pleno a nuestra existencia."
+  },
+  {
+    "dia": 245,
+    "antiguo_testamento": "Eclesiastés 3 - Eclesiastés 4",
+    "salmos_proverbios": "Salmo 133",
+    "nuevo_testamento": "1 Corintios 7",
+    "frase_biblica": "Haz brillar tu rostro sobre tu siervo, sálvame por tu misericordia. (Salmo 31,17)"
+  },
+  {
+    "dia": 246,
+    "antiguo_testamento": "Eclesiastés 5 - Eclesiastés 6",
+    "salmos_proverbios": "Salmo 134",
+    "nuevo_testamento": "1 Corintios 8 - 1 Corintios 9",
+    "frase_biblica": "El Espíritu Santo los instruirá en todo lo que deben decir. (Lucas 12,12)"
+  },
+  {
+    "dia": 247,
+    "antiguo_testamento": "Eclesiastés 7 - Eclesiastés 8",
+    "salmos_proverbios": "Salmo 135",
+    "nuevo_testamento": "1 Corintios 10",
+    "frase_biblica": "El Señor es refugio para los oprimidos, en tiempos de angustia. (Salmo 9,10)"
+  },
+  {
+    "dia": 248,
+    "antiguo_testamento": "Eclesiastés 9 - Eclesiastés 10",
+    "salmos_proverbios": "Salmo 136",
+    "nuevo_testamento": "1 Corintios 11",
+    "frase_biblica": "No se cansen de hacer el bien. (2 Tesalonicenses 3,13)"
+  },
+  {
+    "dia": 249,
+    "antiguo_testamento": "Eclesiastés 11 - Eclesiastés 12",
+    "salmos_proverbios": "Salmo 137",
+    "nuevo_testamento": "1 Corintios 12",
+    "frase_biblica": "Sean prontos para escuchar, lentos para hablar, lentos para enojarse. (Santiago 1,19)"
+  },
+  {
+    "dia": 250,
+    "antiguo_testamento": "Cantar de los Cantares 1 - Cantar de los Cantares 2",
+    "salmos_proverbios": "Salmo 138",
+    "nuevo_testamento": "1 Corintios 13",
+    "frase_biblica": "¡Oh profundidad de la riqueza y de la sabiduría de Dios! (Romanos 11,33)",
+    "reflexion": "CANTAR DE LOS CANTARES: Este libro es un canto apasionado al amor. En él se revela la belleza del amor humano y, en clave espiritual, el amor entre Dios y su pueblo, entre Cristo y la Iglesia. Es un texto lleno de poesía, ternura y deseo de comunión. El Cantar nos recuerda que fuimos creados por amor y para el amor, y que el encuentro con Dios es una experiencia profundamente personal y transformadora."
+  },
+  {
+    "dia": 251,
+    "antiguo_testamento": "Cantar de los Cantares 3 - Cantar de los Cantares 4",
+    "salmos_proverbios": "Salmo 139",
+    "nuevo_testamento": "1 Corintios 14",
+    "frase_biblica": "Dame entendimiento para guardar tu ley y cumplirla de todo corazón. (Salmo 119,34)"
+  },
+  {
+    "dia": 252,
+    "antiguo_testamento": "Cantar de los Cantares 5 - Cantar de los Cantares 6",
+    "salmos_proverbios": "Salmo 140",
+    "nuevo_testamento": "1 Corintios 15",
+    "frase_biblica": "Alegraos siempre en el Señor; os lo repito, alegraos. (Filipenses 4,4)"
+  },
+  {
+    "dia": 253,
+    "antiguo_testamento": "Cantar de los Cantares 7 - Cantar de los Cantares 8",
+    "salmos_proverbios": "Salmo 141",
+    "nuevo_testamento": "1 Corintios 16",
+    "frase_biblica": "Bendeciré al Señor en todo momento; su alabanza estará siempre en mi boca. (Salmo 34,2)"
+  },
+  {
+    "dia": 254,
+    "antiguo_testamento": "Isaías 1 - Isaías 2",
+    "salmos_proverbios": "Salmo 142",
+    "nuevo_testamento": "2 Corintios 1",
+    "frase_biblica": "No se inquieten por el día de mañana. (Mateo 6,34)",
+    "reflexion": "ISAÍAS: Isaías es el gran profeta de la esperanza y la fidelidad de Dios. Anuncia el juicio por la infidelidad del pueblo, pero sobre todo proclama la venida del Mesías, el Siervo Sufriente que traerá la salvación. Sus palabras están llenas de promesas, consuelo y renovación. Nos llama a confiar en Dios incluso en medio del caos, y a vivir con la certeza de que el Señor cumple siempre sus promesas. Isaías es el evangelio anticipado en el corazón del Antiguo Testamento.",
+    "reflexion_2": "SEGUNDA CARTA A LOS CORINTIOS: En esta carta, Pablo se muestra más humano y vulnerable, compartiendo su sufrimiento por el Evangelio. Explica que el poder de Dios se perfecciona en la debilidad y que la verdadera autoridad apostólica se basa en el servicio. Nos enseña a consolar a otros con el consuelo que hemos recibido de Dios, y a vivir con generosidad, autenticidad y reconciliación."
+  },
+  {
+    "dia": 255,
+    "antiguo_testamento": "Isaías 3 - Isaías 4",
+    "salmos_proverbios": "Salmo 143",
+    "nuevo_testamento": "2 Corintios 2",
+    "frase_biblica": "Los sufrimientos del tiempo presente no son comparables con la gloria futura. (Romanos 8,18)"
+  },
+  {
+    "dia": 256,
+    "antiguo_testamento": "Isaías 5 - Isaías 6",
+    "salmos_proverbios": "Salmo 144",
+    "nuevo_testamento": "2 Corintios 3",
+    "frase_biblica": "Haz el bien y habitarás seguro en la tierra. (Salmo 37,3)"
+  },
+  {
+    "dia": 257,
+    "antiguo_testamento": "Isaías 7 - Isaías 8",
+    "salmos_proverbios": "Salmo 145",
+    "nuevo_testamento": "2 Corintios 4",
+    "frase_biblica": "En tu luz veremos la luz. (Salmo 36,10)"
+  },
+  {
+    "dia": 258,
+    "antiguo_testamento": "Isaías 9 - Isaías 10",
+    "salmos_proverbios": "Salmo 146",
+    "nuevo_testamento": "2 Corintios 5",
+    "frase_biblica": "No se turbe su corazón ni tenga miedo. (Juan 14,27)"
+  },
+  {
+    "dia": 259,
+    "antiguo_testamento": "Isaías 11 - Isaías 12 - Isaías 13",
+    "salmos_proverbios": "Salmo 147",
+    "nuevo_testamento": "2 Corintios 6",
+    "frase_biblica": "Velen y oren para no caer en la tentación. (Mateo 26,41)"
+  },
+  {
+    "dia": 260,
+    "antiguo_testamento": "Isaías 14 - Isaías 15 - Isaías 16",
+    "salmos_proverbios": "Salmo 148",
+    "nuevo_testamento": "2 Corintios 7",
+    "frase_biblica": "El Señor endereza los caminos torcidos. (Isaías 45,2)"
+  },
+  {
+    "dia": 261,
+    "antiguo_testamento": "Isaías 17 - Isaías 18",
+    "salmos_proverbios": "Salmo 149",
+    "nuevo_testamento": "2 Corintios 8",
+    "frase_biblica": "Te basta mi gracia, porque mi fuerza se manifiesta en la debilidad. (2 Corintios 12,9)"
+  },
+  {
+    "dia": 262,
+    "antiguo_testamento": "Isaías 19 - Isaías 20 - Isaías 21",
+    "salmos_proverbios": "Salmo 150",
+    "nuevo_testamento": "2 Corintios 9",
+    "frase_biblica": "Señor, tú tienes palabras de vida eterna. (Juan 6,68)"
+  },
+  {
+    "dia": 263,
+    "antiguo_testamento": "Isaías 22 - Isaías 23",
+    "nuevo_testamento": "2 Corintios 10",
+    "frase_biblica": "Dame un corazón nuevo y pondré en ti un espíritu nuevo. (Ezequiel 36,26)"
+  },
+  {
+    "dia": 264,
+    "antiguo_testamento": "Isaías 24 - Isaías 25",
+    "nuevo_testamento": "2 Corintios 11",
+    "frase_biblica": "Yo estaré contigo todos los días hasta el fin del mundo. (Mateo 28,20)"
+  },
+  {
+    "dia": 265,
+    "antiguo_testamento": "Isaías 26 - Isaías 27 - Isaías 28",
+    "nuevo_testamento": "2 Corintios 12",
+    "frase_biblica": "No te apoyes en tu propia inteligencia. (Proverbios 3,5)"
+  },
+  {
+    "dia": 266,
+    "antiguo_testamento": "Isaías 29 - Isaías 30",
+    "nuevo_testamento": "2 Corintios 13",
+    "frase_biblica": "Si el Señor no construye la casa, en vano trabajan los albañiles. (Salmo 127,1)"
+  },
+  {
+    "dia": 267,
+    "antiguo_testamento": "Isaías 31 - Isaías 32 - Isaías 33",
+    "nuevo_testamento": "Gálatas 1",
+    "frase_biblica": "No devuelvan mal por mal ni insulto por insulto. (1 Pedro 3,9)",
+    "reflexion": "CARTA A LOS GÁLATAS: Gálatas defiende la libertad cristiana frente a la esclavitud de la ley. Pablo afirma que somos justificados por la fe en Cristo y no por las obras de la ley. Esta carta proclama con fuerza la filiación divina: “Ya no vivo yo, es Cristo quien vive en mí”. Es una exhortación a vivir según el Espíritu, en libertad y amor, alejados de todo legalismo y egoísmo."
+  },
+  {
+    "dia": 268,
+    "antiguo_testamento": "Isaías 34 - Isaías 35",
+    "nuevo_testamento": "Gálatas 2",
+    "frase_biblica": "La fe es la garantía de lo que se espera. (Hebreos 11,1)"
+  },
+  {
+    "dia": 269,
+    "antiguo_testamento": "Isaías 36 - Isaías 37",
+    "nuevo_testamento": "Gálatas 3",
+    "frase_biblica": "Y al ver su fe, Jesús dijo: Tus pecados te son perdonados. (Lucas 5,20)"
+  },
+  {
+    "dia": 270,
+    "antiguo_testamento": "Isaías 38 - Isaías 39 - Isaías 40",
+    "nuevo_testamento": "Gálatas 4",
+    "frase_biblica": "El Señor repara los corazones destrozados. (Salmo 147,3)"
+  },
+  {
+    "dia": 271,
+    "antiguo_testamento": "Isaías 41 - Isaías 42",
+    "nuevo_testamento": "Gálatas 5",
+    "frase_biblica": "El que siembra con lágrimas, cosechará con alegría. (Salmo 126,5)"
+  },
+  {
+    "dia": 272,
+    "antiguo_testamento": "Isaías 43 - Isaías 44",
+    "nuevo_testamento": "Gálatas 6",
+    "frase_biblica": "Sean misericordiosos como su Padre es misericordioso. (Lucas 6,36)"
+  },
+  {
+    "dia": 273,
+    "antiguo_testamento": "Isaías 45 - Isaías 46 - Isaías 47",
+    "nuevo_testamento": "Efesios 1",
+    "frase_biblica": "Enséñame a cumplir tu voluntad, porque tú eres mi Dios. (Salmo 143,10)",
+    "reflexion": "CARTA A LOS EFESIOS: Efesios nos revela el misterio de la Iglesia como Cuerpo de Cristo. Pablo habla de la unidad en la diversidad, de la gracia como don gratuito y del llamado a vivir según la dignidad cristiana. Nos invita a revestirnos del hombre nuevo, a vivir en el amor, en la luz y en la verdad. También destaca la importancia de la familia y de la lucha espiritual con la “armadura de Dios”."
+  },
+  {
+    "dia": 274,
+    "antiguo_testamento": "Isaías 48 - Isaías 49",
+    "nuevo_testamento": "Efesios 2",
+    "frase_biblica": "Sean fuertes y valientes, no teman ni se asusten. (Deuteronomio 31,6)"
+  },
+  {
+    "dia": 275,
+    "antiguo_testamento": "Isaías 50 - Isaías 51 - Isaías 52",
+    "nuevo_testamento": "Efesios 3",
+    "frase_biblica": "Yo soy el camino, la verdad y la vida. (Juan 14,6)"
+  },
+  {
+    "dia": 276,
+    "antiguo_testamento": "Isaías 53 - Isaías 54 - Isaías 55",
+    "nuevo_testamento": "Efesios 4",
+    "frase_biblica": "Gustad y ved qué bueno es el Señor. (Salmo 34,9)"
+  },
+  {
+    "dia": 277,
+    "antiguo_testamento": "Isaías 56 - Isaías 57 - Isaías 58",
+    "nuevo_testamento": "Efesios 5",
+    "frase_biblica": "El Señor es mi fuerza y mi escudo, en Él confió mi corazón. (Salmo 28,7)"
+  },
+  {
+    "dia": 278,
+    "antiguo_testamento": "Isaías 59 - Isaías 60",
+    "nuevo_testamento": "Efesios 6",
+    "frase_biblica": "Donde está tu tesoro, allí estará también tu corazón. (Mateo 6,21)"
+  },
+  {
+    "dia": 279,
+    "antiguo_testamento": "Isaías 61 - Isaías 62 - Isaías 63",
+    "nuevo_testamento": "Filipenses 1",
+    "frase_biblica": "El Señor conoce los días de los íntegros. (Salmo 37,18)",
+    "reflexion": "CARTA A LOS FILIPENSES: Filipenses es una carta llena de gozo y gratitud. A pesar de estar en prisión, Pablo anima a los cristianos a regocijarse siempre en el Señor. Exhorta a la humildad tomando como modelo a Cristo, que se anonadó por amor. Este libro nos enseña que la verdadera alegría nace de una vida entregada a Dios y a los demás, con un corazón confiado en la providencia divina."
+  },
+  {
+    "dia": 280,
+    "antiguo_testamento": "Isaías 64 - Isaías 65 - Isaías 66",
+    "nuevo_testamento": "Filipenses 2",
+    "frase_biblica": "La caridad no pasa nunca. (1 Corintios 13,8)"
+  },
+  {
+    "dia": 281,
+    "antiguo_testamento": "Jeremías 1 - Jeremías 2",
+    "nuevo_testamento": "Filipenses 3",
+    "frase_biblica": "Hagan todo con amor. (1 Corintios 16,14)",
+    "reflexion": "JEREMÍAS: El profeta Jeremías es testigo del dolor de un pueblo que se aleja de Dios. Su vida está marcada por el sufrimiento, la fidelidad y una profunda compasión. En medio del juicio, Jeremías anuncia una nueva alianza escrita en el corazón. Este libro nos enseña que, incluso en la desolación, Dios sigue llamando a la conversión y no abandona a su pueblo. Jeremías nos anima a confiar en la misericordia divina y a mantenernos firmes en la verdad."
+  },
+  {
+    "dia": 282,
+    "antiguo_testamento": "Jeremías 3 - Jeremías 4",
+    "nuevo_testamento": "Filipenses 4",
+    "frase_biblica": "Acerquémonos con corazón sincero y con plena fe. (Hebreos 10,22)"
+  },
+  {
+    "dia": 283,
+    "antiguo_testamento": "Jeremías 5 - Jeremías 6",
+    "nuevo_testamento": "Colosenses 1",
+    "frase_biblica": "Pelea el buen combate de la fe. (1 Timoteo 6,12)",
+    "reflexion": "CARTA A LOS COLOSENSES: Colosenses proclama la supremacía de Cristo: imagen de Dios invisible, cabeza de la Iglesia y principio de todo lo creado. Pablo exhorta a los creyentes a centrar su vida en Cristo, a dejar atrás la vieja humanidad y a vivir según los valores del Reino. Nos recuerda que Cristo basta, y que en Él está la plenitud de la vida y del conocimiento divino."
+  },
+  {
+    "dia": 284,
+    "antiguo_testamento": "Jeremías 7 - Jeremías 8",
+    "nuevo_testamento": "Colosenses 2",
+    "frase_biblica": "Bienaventurados los puros de corazón, porque ellos verán a Dios. (Mateo 5,8)"
+  },
+  {
+    "dia": 285,
+    "antiguo_testamento": "Jeremías 9 - Jeremías 10",
+    "nuevo_testamento": "Colosenses 3",
+    "frase_biblica": "Bendito el hombre que confía en el Señor. (Jeremías 17,7)"
+  },
+  {
+    "dia": 286,
+    "antiguo_testamento": "Jeremías 11 - Jeremías 12",
+    "nuevo_testamento": "Colosenses 4",
+    "frase_biblica": "Guía mis pasos con tu palabra. (Salmo 119,133)"
+  },
+  {
+    "dia": 287,
+    "antiguo_testamento": "Jeremías 13 - Jeremías 14",
+    "nuevo_testamento": "1 Tesalonisenses 1",
+    "frase_biblica": "Que la paz de Cristo reine en sus corazones. (Colosenses 3,15)",
+     "reflexion": "PRIMERA CARTA A LOS TESALONICENSES: Esta carta refleja la cercanía pastoral de Pablo con una comunidad joven en la fe. Anima a la perseverancia, a la santidad y a la esperanza en la venida del Señor. Nos recuerda que debemos vivir con sobriedad, amor mutuo y como hijos de la luz, preparados siempre para el encuentro definitivo con Cristo."
+  },
+  {
+    "dia": 288,
+    "antiguo_testamento": "Jeremías 15 - Jeremías 16",
+    "nuevo_testamento": "1 Tesalonisenses 2",
+    "frase_biblica": "El Señor mismo irá delante de ti, no te dejará ni te abandonará. (Deuteronomio 31,8)"
+  },
+  {
+    "dia": 289,
+    "antiguo_testamento": "Jeremías 17 - Jeremías 18",
+    "nuevo_testamento": "1 Tesalonisenses 3",
+    "frase_biblica": "Espera en el Señor, sé fuerte; ten valor y espera en el Señor. (Salmo 27,14)"
+  },
+  {
+    "dia": 290,
+    "antiguo_testamento": "Jeremías 19 - Jeremías 20",
+    "nuevo_testamento": "1 Tesalonisenses 4",
+    "frase_biblica": "El que habita al abrigo del Altísimo se acoge a la sombra del Todopoderoso. (Salmo 91,1)"
+  },
+  {
+    "dia": 291,
+    "antiguo_testamento": "Jeremías 21 - Jeremías 22",
+    "nuevo_testamento": "1 Tesalonisenses 5",
+    "frase_biblica": "Sean agradecidos. (Colosenses 3,15)"
+  },
+  {
+    "dia": 292,
+    "antiguo_testamento": "Jeremías 23 - Jeremías 24",
+    "nuevo_testamento": "2 Tesalonisenses 1",
+    "frase_biblica": "Todo tiene su tiempo y todo lo que se quiere debajo del cielo tiene su hora. (Eclesiastés 3,1)",
+     "reflexion": "SEGUNDA CARTA A LOS TESALONICENSES: Pablo corrige malentendidos sobre la segunda venida de Cristo y llama a la comunidad a no dejarse llevar por el temor ni por la ociosidad. Reafirma la importancia del trabajo honesto y de la firmeza en la fe. Esta carta nos enseña a esperar al Señor con esperanza activa, viviendo cada día con responsabilidad y confianza en su justicia."
+  },
+  {
+    "dia": 293,
+    "antiguo_testamento": "Jeremías 25 - Jeremías 26",
+    "nuevo_testamento": "2 Tesalonisenses 2",
+    "frase_biblica": "Tu palabra es una lámpara para mis pasos y una luz en mi camino. (Salmo 119,105)"
+  },
+  {
+    "dia": 294,
+    "antiguo_testamento": "Jeremías 27 - Jeremías 28",
+    "nuevo_testamento": "2 Tesalonisenses 3",
+    "frase_biblica": "Dichoso el hombre que soporta la prueba. (Santiago 1,12)"
+  },
+  {
+    "dia": 295,
+    "antiguo_testamento": "Jeremías 29 - Jeremías 30",
+    "nuevo_testamento": "1 Timoteo 1",
+    "frase_biblica": "Ustedes son la sal de la tierra. (Mateo 5,13)",
+    "reflexion": "PRIMERA CARTA A TIMOTEO: Pablo ofrece a Timoteo, su colaborador joven, consejos prácticos y espirituales para guiar la comunidad cristiana. La carta subraya la importancia del buen liderazgo, la sana doctrina, la oración, y la conducta íntegra. Nos recuerda que el servicio pastoral nace del amor a Cristo y se alimenta de una vida ejemplar, sobria y generosa."
+  },
+  {
+    "dia": 296,
+    "antiguo_testamento": "Jeremías 31 - Jeremías 32",
+    "nuevo_testamento": "1 Timoteo 2",
+    "frase_biblica": "Te alabaré porque me has hecho de manera maravillosa. (Salmo 139,14)"
+  },
+  {
+    "dia": 297,
+    "antiguo_testamento": "Jeremías 33 - Jeremías 34",
+    "nuevo_testamento": "1 Timoteo 3",
+    "frase_biblica": "Mi alma tiene sed de Dios, del Dios vivo. (Salmo 42,3)"
+  },
+  {
+    "dia": 298,
+    "antiguo_testamento": "Jeremías 35 - Jeremías 36",
+    "nuevo_testamento": "1 Timoteo 4",
+    "frase_biblica": "Alégrense con los que están alegres, lloren con los que lloran. (Romanos 12,15)"
+  },
+  {
+    "dia": 299,
+    "antiguo_testamento": "Jeremías 37 - Jeremías 38",
+    "nuevo_testamento": "1 Timoteo 5",
+    "frase_biblica": "Todo lo puedo en Aquel que me fortalece. (Filipenses 4,13)"
+  },
+  {
+    "dia": 300,
+    "antiguo_testamento": "Jeremías 39 - Jeremías 40",
+    "nuevo_testamento": "1 Timoteo 6",
+    "frase_biblica": "Él borrará toda lágrima de sus ojos. (Apocalipsis 21,4)"
+  },
+  {
+    "dia": 301,
+    "antiguo_testamento": "Jeremías 41 - Jeremías 42",
+    "nuevo_testamento": "2 Timoteo 1",
+    "frase_biblica": "El Señor es mi pastor, nada me falta. (Salmo 23,1)",
+    "reflexion": "SEGUNDA CARTA A TIMOTEO: Escrita desde la prisión, esta carta es el testamento espiritual de Pablo. Anima a Timoteo a no avergonzarse del Evangelio, a soportar las dificultades por Cristo y a permanecer fiel en medio de la persecución. Nos habla del valor de la Escritura, de la firmeza en la fe y de la esperanza en la corona prometida por el Señor justo juez."
+  },
+  {
+    "dia": 302,
+    "antiguo_testamento": "Jeremías 43 - Jeremías 44",
+    "nuevo_testamento": "2 Timoteo 2",
+    "frase_biblica": "El que cree en mí, aunque muera vivirá. (Juan 11,25)"
+  },
+  {
+    "dia": 303,
+    "antiguo_testamento": "Jeremías 45 - Jeremías 46",
+    "nuevo_testamento": "2 Timoteo 3",
+    "frase_biblica": "Enséñame a contar mis días para que alcance sabiduría de corazón. (Salmo 90,12)"
+  },
+  {
+    "dia": 304,
+    "antiguo_testamento": "Jeremías 47",
+    "nuevo_testamento": "2 Timoteo 4",
+    "frase_biblica": "Te buscaré de madrugada. (Salmo 63,2)"
+  },
+  {
+    "dia": 305,
+    "antiguo_testamento": "Jeremías 48",
+    "nuevo_testamento": "Tito 1",
+    "frase_biblica": "El Señor está cerca de los que lo invocan con sinceridad. (Salmo 145,18)",
+    "reflexion": "CARTA A TITO: En esta breve carta, Pablo instruye a Tito sobre la organización de la Iglesia en Creta. Resalta la necesidad de pastores íntegros y fieles, y exhorta a la comunidad a vivir en la gracia, rechazando los deseos mundanos. La gracia de Dios educa para una vida sobria, justa y piadosa, en espera de la manifestación gloriosa de Cristo."
+  },
+  {
+    "dia": 306,
+    "antiguo_testamento": "Jeremías 49",
+    "nuevo_testamento": "Tito 2",
+    "frase_biblica": "Con amor eterno te he amado, por eso te sigo mostrando mi misericordia. (Jeremías 31,3)"
+  },
+  {
+    "dia": 307,
+    "antiguo_testamento": "Jeremías 50",
+    "nuevo_testamento": "Tito 3",
+    "frase_biblica": "El gozo del Señor es mi fortaleza. (Nehemías 8,10)"
+  },
+  {
+    "dia": 308,
+    "antiguo_testamento": "Jeremías 51",
+    "frase_biblica": "Venid a mí todos los que están cansados y agobiados, y yo los aliviaré. (Mateo 11,28)"
+  },
+  {
+    "dia": 309,
+    "antiguo_testamento": "Jeremías 52",
+    "nuevo_testamento": "Hebreos 1",
+    "frase_biblica": "Pidan y se les dará, busquen y encontrarán, llamen y se les abrirá. (Mateo 7,7)",
+    "reflexion": "CARTA A LOS HEBREOS: Hebreos presenta a Cristo como el Sumo Sacerdote perfecto, mediador de la nueva alianza. Muestra cómo todo el Antiguo Testamento encuentra su plenitud en Él. Invita a perseverar en la fe, a mirar a Jesús, autor y consumador de nuestra fe, y a vivir con confianza sabiendo que tenemos un intercesor eterno ante Dios."
+  },
+  {
+    "dia": 310,
+    "antiguo_testamento": "Lamentaciones 1",
+    "nuevo_testamento": "Hebreos 2",
+    "frase_biblica": "El amor cubre multitud de pecados. (1 Pedro 4,8)"
+  },
+  {
+    "dia": 311,
+    "antiguo_testamento": "Lamentaciones 2",
+    "nuevo_testamento": "Hebreos 3",
+    "frase_biblica": "Sean humildes, mansos y pacientes, soportándose mutuamente con amor. (Efesios 4,2)"
+  },
+  {
+    "dia": 312,
+    "antiguo_testamento": "Lamentaciones 3",
+    "nuevo_testamento": "Hebreos 4",
+    "frase_biblica": "No temas, porque yo estoy contigo. (Isaías 41,10)"
+  },
+  {
+    "dia": 313,
+    "antiguo_testamento": "Lamentaciones 4",
+    "nuevo_testamento": "Hebreos 5",
+    "frase_biblica": "Porque grande es su amor por nosotros, y la fidelidad del Señor dura para siempre. (Salmo 117,2)"
+  },
+  {
+    "dia": 314,
+    "antiguo_testamento": "Lamentaciones 5",
+    "nuevo_testamento": "Hebreos 6",
+    "frase_biblica": "No hay mayor amor que dar la vida por los amigos. (Juan 15,13)"
+  },
+  {
+    "dia": 315,
+    "antiguo_testamento": "Ezequiel 1 - Ezequiel 2",
+    "nuevo_testamento": "Hebreos 7",
+    "frase_biblica": "Dame un corazón puro, oh Dios, y renueva dentro de mí un espíritu firme. (Salmo 51,12)",
+    "reflexion": "EZEQUIEL: Ezequiel es un profeta de visiones impactantes y mensajes de restauración. A través de signos y símbolos, anuncia tanto el juicio por la infidelidad como la esperanza de un nuevo comienzo. Proclama que Dios dará a su pueblo un corazón nuevo y un espíritu nuevo. Su visión del templo restaurado y del río de vida nos habla de una presencia divina que renueva todo. Ezequiel nos impulsa a dejarnos transformar por el Espíritu y a vivir bajo la soberanía de Dios."
+  },
+  {
+    "dia": 316,
+    "antiguo_testamento": "Ezequiel 3 - Ezequiel 4",
+    "nuevo_testamento": "Hebreos 8",
+    "frase_biblica": "Dios es amor, y quien permanece en el amor permanece en Dios. (1 Juan 4,16)"
+  },
+  {
+    "dia": 317,
+    "antiguo_testamento": "Ezequiel 5 - Ezequiel 6",
+    "nuevo_testamento": "Hebreos 9",
+    "frase_biblica": "Tú eres mi refugio y mi fortaleza, mi Dios en quien confío. (Salmo 91,2)"
+  },
+  {
+    "dia": 318,
+    "antiguo_testamento": "Ezequiel 7 - Ezequiel 8",
+    "nuevo_testamento": "Hebreos 10",
+    "frase_biblica": "Confía en el Señor y haz el bien. (Salmo 37,3)"
+  },
+  {
+    "dia": 319,
+    "antiguo_testamento": "Ezequiel 9 - Ezequiel 10",
+    "nuevo_testamento": "Hebreos 11",
+    "frase_biblica": "Sean alegres en la esperanza, pacientes en la tribulación, perseverantes en la oración. (Romanos 12,12)"
+  },
+  {
+    "dia": 320,
+    "antiguo_testamento": "Ezequiel 11 - Ezequiel 12",
+    "nuevo_testamento": "Hebreos 12",
+    "frase_biblica": "Mi gracia te basta. (2 Corintios 12,9)"
+  },
+  {
+    "dia": 321,
+    "antiguo_testamento": "Ezequiel 13 - Ezequiel 14",
+    "nuevo_testamento": "Hebreos 13",
+    "frase_biblica": "Él sana a los de corazón quebrantado. (Salmo 147,3)"
+  },
+  {
+    "dia": 322,
+    "antiguo_testamento": "Ezequiel 15 - Ezequiel 16",
+    "nuevo_testamento": "Santiago 1",
+    "frase_biblica": "La arrogancia acarrea deshonra; la sabiduría está con los humildes.” (Proverbios 11,2)",
+    "reflexion": "CARTA DE SANTIAGO: Santiago nos recuerda que la fe sin obras está muerta. Es una llamada a la coherencia, a vivir lo que creemos. Denuncia la parcialidad, la lengua mal usada y la injusticia social. Nos exhorta a la paciencia, a la oración, y al compromiso con los pobres. La verdadera religión se expresa en el amor activo al prójimo."
+  },
+  {
+    "dia": 323,
+    "antiguo_testamento": "Ezequiel 17 - Ezequiel 18",
+    "nuevo_testamento": "Santiago 2",
+    "frase_biblica": "No hay nada imposible para Dios. (Lucas 1,37)"
+  },
+  {
+    "dia": 324,
+    "antiguo_testamento": "Ezequiel 19 - Ezequiel 20",
+    "nuevo_testamento": "Santiago 3",
+    "frase_biblica": "Señor, tú eres mi lámpara; tú alumbras mis tinieblas. (2 Samuel 22,29)"
+  },
+  {
+    "dia": 325,
+    "antiguo_testamento": "Ezequiel 21 - Ezequiel 22",
+    "nuevo_testamento": "Santiago 4",
+    "frase_biblica": "Clama a mí y te responderé. (Jeremías 33,3)"
+  },
+  {
+    "dia": 326,
+    "antiguo_testamento": "Ezequiel 23 - Ezequiel 24",
+    "nuevo_testamento": "Santiago 5",
+    "frase_biblica": "Alégrense siempre en el Señor. (Filipenses 4,4)"
+  },
+  {
+    "dia": 327,
+    "antiguo_testamento": "Ezequiel 25 - Ezequiel 26",
+    "nuevo_testamento": "1 Pedro 1",
+    "frase_biblica": "Dios proveerá. (Génesis 22,14)",
+    "reflexion": "PRIMERA CARTA DE PEDRO: Pedro escribe a comunidades que sufren por su fe. Les anima a mantenerse firmes, recordándoles que son elegidos, piedras vivas del templo espiritual de Dios. Invita a responder al mal con bien, a vivir con esperanza, santidad y amor. Esta carta es un llamado a la fidelidad en medio de la prueba, sabiendo que Cristo también sufrió por nosotros."
+  },
+  {
+    "dia": 328,
+    "antiguo_testamento": "Ezequiel 27 - Ezequiel 28",
+    "nuevo_testamento": "1 Pedro 2",
+    "frase_biblica": "Ámense los unos a los otros como yo los he amado. (Juan 13,34)"
+  },
+  {
+    "dia": 329,
+    "antiguo_testamento": "Ezequiel 29 - Ezequiel 30",
+    "nuevo_testamento": "1 Pedro 3",
+    "frase_biblica": "Hazme oír por la mañana tu misericordia, porque en ti confío. (Salmo 143,8)"
+  },
+  {
+    "dia": 330,
+    "antiguo_testamento": "Ezequiel 31 - Ezequiel 32",
+    "nuevo_testamento": "1 Pedro 4",
+    "frase_biblica": "Él restaura mi alma. (Salmo 23,3)",
+    "reflexion": "PRIMERA CARTA DE JUAN: Esta carta nos presenta a Dios como amor, y nos invita a vivir en comunión con Él, caminando en la luz, practicando la justicia y amándonos unos a otros. El amor verdadero, según Juan, se manifiesta en obras concretas. Quien ama permanece en Dios y Dios en él. La fe en Jesús, Hijo de Dios, es la victoria que vence al mundo."
+  },
+  {
+    "dia": 331,
+    "antiguo_testamento": "Ezequiel 33 - Ezequiel 34",
+    "nuevo_testamento": "1 Pedro 5",
+    "frase_biblica": "Guarda silencio ante el Señor y espera en Él. (Salmo 37,7)"
+  },
+  {
+    "dia": 332,
+    "antiguo_testamento": "Ezequiel 35 - Ezequiel 36",
+    "nuevo_testamento": "2 Pedro 1",
+    "frase_biblica": "Él me librará de todo mal. (2 Timoteo 4,18)",
+    "reflexion": "SEGUNDA CARTA DE PEDRO: Pedro exhorta a crecer en el conocimiento de Jesucristo y a mantenerse alejados de los falsos maestros. Subraya la importancia de vivir con diligencia, esperando la venida del Señor. Nos recuerda que Dios es paciente, no queriendo que nadie se pierda, y que debemos vivir de manera santa y piadosa en espera del día del Señor."
+  },
+  {
+    "dia": 333,
+    "antiguo_testamento": "Ezequiel 37 - Ezequiel 38",
+    "nuevo_testamento": "2 Pedro 2",
+    "frase_biblica": "Mi alma espera al Señor más que los centinelas a la aurora. (Salmo 130,6)"
+  },
+  {
+    "dia": 334,
+    "antiguo_testamento": "Ezequiel 39 - Ezequiel 40",
+    "nuevo_testamento": "2 Pedro 3",
+    "frase_biblica": "Ánimo, soy yo, no tengan miedo. (Mateo 14,27)"
+  },
+  {
+    "dia": 335,
+    "antiguo_testamento": "Ezequiel 41 - Ezequiel 42",
+    "nuevo_testamento": "1 Juan 1",
+    "frase_biblica": "Te instruiré y te enseñaré el camino que debes seguir. (Salmo 32,8)",
+    "reflexion": "PRIMERA CARTA DE JUAN: Esta carta nos presenta a Dios como amor, y nos invita a vivir en comunión con Él, caminando en la luz, practicando la justicia y amándonos unos a otros. El amor verdadero, según Juan, se manifiesta en obras concretas. Quien ama permanece en Dios y Dios en él. La fe en Jesús, Hijo de Dios, es la victoria que vence al mundo."
+  },
+  {
+    "dia": 336,
+    "antiguo_testamento": "Ezequiel 43 - Ezequiel 44 - Ezequiel 45",
+    "nuevo_testamento": "1 Juan 2",
+    "frase_biblica": "El que está en Cristo es una nueva criatura. (2 Corintios 5,17)"
+  },
+  {
+    "dia": 337,
+    "antiguo_testamento": "Ezequiel 46 - Ezequiel 47 - Ezequiel 48",
+    "nuevo_testamento": "1 Juan 3",
+    "frase_biblica": "Los que esperan en el Señor renovarán sus fuerzas. (Isaías 40,31)"
+  },
+  {
+    "dia": 338,
+    "antiguo_testamento": "Daniel 1 - Daniel 2",
+    "nuevo_testamento": "1 Juan 4",
+    "frase_biblica": "Dichoso el que teme al Señor y sigue sus caminos. (Salmo 128,1)",
+    "reflexion": "DANIEL: El libro de Daniel es un testimonio de fidelidad en tiempos de persecución. A través de narraciones y visiones apocalípticas, proclama que el Reino de Dios prevalecerá sobre todos los poderes humanos. Daniel y sus compañeros son ejemplo de valentía, oración y confianza en el Señor. Este libro fortalece la esperanza en la victoria del bien sobre el mal y nos anima a permanecer firmes en la fe, incluso en medio de las pruebas."
+  },
+  {
+    "dia": 339,
+    "antiguo_testamento": "Daniel 3 - Daniel 4",
+    "nuevo_testamento": "1 Juan 5",
+    "frase_biblica": "Busca primero el Reino de Dios y su justicia. (Mateo 6,33)"
+  },
+  {
+    "dia": 340,
+    "antiguo_testamento": "Daniel 5 - Daniel 6",
+    "nuevo_testamento": "2 Juan",
+    "frase_biblica": "Nada nos podrá separar del amor de Dios. (Romanos 8,39)",
+    "reflexion": "SEGUNDA CARTA DE JUAN: Es una exhortación breve pero intensa a vivir en la verdad y el amor. Juan advierte contra los engañadores que niegan a Cristo encarnado. La fidelidad a la doctrina apostólica y el amor fraterno son los signos de una comunidad auténticamente cristiana."
+  },
+  {
+    "dia": 341,
+    "antiguo_testamento": "Daniel 7 - Daniel 8",
+    "nuevo_testamento": "3 Juan",
+    "frase_biblica": "Lámpara es tu palabra para mis pasos. (Salmo 119,105)",
+    "reflexion": "TERCERA CARTA DE JUAN: Aquí Juan alaba la hospitalidad de Gayo hacia los misioneros cristianos y advierte contra la actitud autoritaria de Diótrefes. Esta carta nos recuerda que la comunión eclesial se construye con humildad, verdad y servicio. El bien y la verdad deben guiar nuestras acciones."
+  },
+  {
+    "dia": 342,
+    "antiguo_testamento": "Daniel 9 - Daniel 10",
+    "nuevo_testamento": "Judas",
+    "frase_biblica": "Felices los que escuchan la palabra de Dios y la practican. (Lucas 11,28)",
+    "reflexion": "CARTA DE JUDAS: Judas exhorta a los creyentes a luchar por la fe auténtica frente a los falsos maestros. Hace un llamado a permanecer en el amor de Dios, orando, esperando la misericordia de Cristo y ayudando a los que dudan. Esta carta es una defensa ferviente de la verdad del Evangelio y una llamada a la vigilancia espiritual."
+  },
+  {
+    "dia": 343,
+    "antiguo_testamento": "Daniel 11 - Daniel 12",
+    "nuevo_testamento": "Apocalipsis 1",
+    "frase_biblica": "Que se haga tu voluntad, así en la tierra como en el cielo. (Mateo 6,10)",
+    "reflexion": "APOCALIPSIS: El Apocalipsis, escrito en medio de la persecución, es un libro de esperanza y consuelo. A través de símbolos y visiones, revela que, aunque el mal parezca triunfar, Dios tiene el control de la historia. Cristo es el Cordero vencedor que reina por siempre. Este libro anima a la Iglesia a perseverar en la fe, a no temer ante la tribulación y a mirar con esperanza la Jerusalén celestial, donde Dios enjugará toda lágrima y hará nuevas todas las cosas. ¡Maranathá! ¡Ven, Señor Jesús!"
+  },
+  {
+    "dia": 344,
+    "antiguo_testamento": "Daniel 13",
+    "nuevo_testamento": "Apocalipsis 2",
+    "frase_biblica": "El que se humilla será enaltecido. (Lucas 14,11)"
+  },
+  {
+    "dia": 345,
+    "antiguo_testamento": "Daniel 14",
+    "nuevo_testamento": "Apocalipsis 3",
+    "frase_biblica": "El Señor es compasivo y misericordioso. (Salmo 103,8)"
+  },
+  {
+    "dia": 346,
+    "antiguo_testamento": "Oseas 1 - Oseas 2 - Oseas 3 - Oseas 4",
+    "nuevo_testamento": "Apocalipsis 4",
+    "frase_biblica": "Todo lo que hagan, háganlo de corazón, como para el Señor. (Colosenses 3,23)",
+    "reflexion": "OSEAS: Oseas es el profeta del amor fiel de Dios. Su vida, marcada por el drama de un amor traicionado, se convierte en signo del amor de Dios hacia un pueblo infiel. A pesar del pecado de Israel, Dios promete restaurar y sanar. Este libro nos recuerda que el amor de Dios es más fuerte que nuestras caídas, y que su misericordia nos busca sin cansancio para devolvernos la vida."
+  },
+  {
+    "dia": 347,
+    "antiguo_testamento": "Oseas 5 - Oseas 6 - Oseas 7 - Oseas 8",
+    "nuevo_testamento": "Apocalipsis 5",
+    "frase_biblica": "Hazme caminar por la senda de tus mandamientos. (Salmo 119,35)"
+  },
+  {
+    "dia": 348,
+    "antiguo_testamento": "Oseas 9 - Oseas 10 - Oseas 11 - Oseas 12",
+    "nuevo_testamento": "Apocalipsis 6",
+    "frase_biblica": "Vengan, subamos al monte del Señor. (Isaías 2,3)"
+  },
+  {
+    "dia": 349,
+    "antiguo_testamento": "Oseas 13 - Oseas 14 - Oseas 15",
+    "nuevo_testamento": "Apocalipsis 7",
+    "frase_biblica": "Vivamos según el Espíritu. (Gálatas 5,25)"
+  },
+  {
+    "dia": 350,
+    "antiguo_testamento": "Joel 1 - Joel 2 - Joel 3",
+    "nuevo_testamento": "Apocalipsis 8",
+    "frase_biblica": "Tú me rodeas por detrás y por delante, y tienes puesta tu mano sobre mí. (Salmo 139,5)",
+    "reflexion": "JOEL: Joel anuncia una gran desgracia, simbolizada en una plaga de langostas, como imagen del juicio divino. Pero también proclama un mensaje esperanzador: si el pueblo se convierte de corazón, Dios tendrá compasión. Es célebre su promesa del derramamiento del Espíritu sobre toda carne. Joel nos invita a la conversión auténtica y a vivir abiertos a la acción renovadora del Espíritu Santo."
+  },
+  {
+    "dia": 351,
+    "antiguo_testamento": "Amós 1 - Amós 2 - Amós 3",
+    "nuevo_testamento": "Apocalipsis 9",
+    "frase_biblica": "Dios es nuestro amparo y fortaleza. (Salmo 46,2)",
+    "reflexion": "AMÓS: Amós denuncia con firmeza la injusticia social y la falsa religiosidad. Aunque no era profeta de profesión, Dios lo envía a hablar en su nombre. Su mensaje es claro: no puede haber culto verdadero sin justicia. Amós nos interpela a vivir una fe coherente que defienda al pobre, que escuche al oprimido y que camine en integridad delante del Señor."
+  },
+  {
+    "dia": 352,
+    "antiguo_testamento": "Amós 4 - Amós 5 - Amós 6",
+    "nuevo_testamento": "Apocalipsis 10",
+    "frase_biblica": "Él calma la tormenta y las olas se apaciguan. (Salmo 107,29)"
+  },
+  {
+    "dia": 353,
+    "antiguo_testamento": "Amós 7 - Amós 8 - Amós 9",
+    "nuevo_testamento": "Apocalipsis 11",
+    "frase_biblica": "Dichosos los que trabajan por la paz. (Mateo 5,9)"
+  },
+  {
+    "dia": 354,
+    "antiguo_testamento": "Abdías - Jonás 1 - Jonás 2 - Jonás 3 - Jonás 4",
+    "nuevo_testamento": "Apocalipsis 12",
+    "frase_biblica": "Yo soy el Alfa y la Omega, el principio y el fin. (Apocalipsis 22,13)",
+    "reflexion": "ABDÍAS: Abdías, el libro más corto del Antiguo Testamento, lanza una advertencia contra el orgullo y la violencia de Edom. Aunque breve, su mensaje es potente: Dios se opone a los soberbios y hace justicia en favor de los humildes. Nos enseña que la soberbia y la indiferencia ante el sufrimiento del hermano tienen consecuencias. Abdías nos llama a confiar en la victoria del Reino de Dios.",
+    "reflexion_2": "JONÁS: Jonás nos presenta a un profeta renuente que huye del mandato de Dios, pero es llevado de nuevo al camino de la misión. En Nínive, una ciudad pagana, el pueblo escucha y se convierte. La historia de Jonás revela que Dios es compasivo, paciente y desea la salvación de todos. Este libro nos interpela a abrir el corazón a la misericordia de Dios, incluso hacia quienes consideramos diferentes o enemigos."
+  },
+  {
+    "dia": 355,
+    "antiguo_testamento": "Miqueas 1 - Miqueas 2 - Miqueas 3",
+    "nuevo_testamento": "Apocalipsis 13",
+    "frase_biblica": "Tu bondad y tu misericordia me acompañan todos los días de mi vida. (Salmo 23,6)",
+    "reflexion": "MIQUEAS: Miqueas proclama un mensaje de juicio por la corrupción, la injusticia y la idolatría, pero también anuncia esperanza: el nacimiento de un pastor-rey en Belén que traerá paz. Uno de sus mensajes más conocidos resume la voluntad de Dios: “Practica la justicia, ama la misericordia y camina humildemente con tu Dios” (Miq 6,8). Este libro nos impulsa a vivir con autenticidad, buscando el bien común y confiando en el Mesías que renueva el mundo."
+  },
+  {
+    "dia": 356,
+    "antiguo_testamento": "Miqueas 4 - Miqueas 5 - Miqueas 6 - Miqueas 7",
+    "nuevo_testamento": "Apocalipsis 14",
+    "frase_biblica": "Que su luz brille ante los hombres. (Mateo 5,16)"
+  },
+  {
+    "dia": 357,
+    "antiguo_testamento": "Nahúm 1 - Nahúm 2 - Nahúm 3",
+    "nuevo_testamento": "Apocalipsis 15",
+    "frase_biblica": "No vivan ya según los criterios del mundo. (Romanos 12,2)",
+    "reflexion": "NAHÚM: Nahúm profetiza la caída de Nínive, símbolo de la opresión y la arrogancia. A través de un lenguaje poético y fuerte, declara que Dios es justo, que defiende a su pueblo y castiga al malvado. Aunque no hay un llamado directo a la conversión, el mensaje deja claro que el mal no tiene la última palabra. Nahúm nos recuerda que Dios no es indiferente ante la injusticia y que su justicia actúa en defensa de los débiles."
+  },
+  {
+    "dia": 358,
+    "antiguo_testamento": "Habacuc 1 - Habacuc 2 - Habacuc 3",
+    "nuevo_testamento": "Apocalipsis 16",
+    "frase_biblica": "Vengan a mí, escúchenme, y vivirá su alma. (Isaías 55,3)",
+    "reflexion": "HABACUC: Habacuc dialoga con Dios desde el dolor y la incomprensión frente al sufrimiento del justo. El profeta se queja, espera y escucha la respuesta divina: “El justo vivirá por su fe” (Hab 2,4). Aunque todo parezca perdido, termina con un canto de confianza en el Señor. Habacuc nos enseña a orar desde la duda, a mantener la esperanza en medio de la crisis y a confiar en que Dios actúa, aunque no siempre de la forma que esperamos."
+  },
+  {
+    "dia": 359,
+    "antiguo_testamento": "Sofonías 1 - Sofonías 2 - Sofonías 3",
+    "nuevo_testamento": "Apocalipsis 17",
+    "frase_biblica": "Dios es fiel. (1 Corintios 1,9)",
+    "reflexion": "SOFONÍAS: Sofonías anuncia el Día del Señor, un día de juicio y purificación. Denuncia la idolatría y la autosuficiencia, pero también proclama que un resto humilde será salvado. Termina con una imagen hermosa de un Dios que se alegra con su pueblo y canta sobre él con amor. Sofonías nos anima a buscar al Señor con corazón sincero, sabiendo que su justicia purifica y su amor restaura."
+  },
+  {
+    "dia": 360,
+    "antiguo_testamento": "Ageo 1 - Ageo 2",
+    "nuevo_testamento": "Apocalipsis 18",
+    "frase_biblica": "El Señor cumplirá su propósito en mí. (Salmo 138,8)",
+    "reflexion": "AGEO: Ageo anima al pueblo que regresó del exilio a reconstruir el Templo, que simboliza la presencia de Dios entre ellos. Frente al desánimo y las dificultades, el profeta recuerda que Dios está con su pueblo. Su mensaje insiste: “Mi Espíritu está en medio de vosotros, no temáis” (Ag 2,5). Ageo nos recuerda que debemos priorizar a Dios en nuestra vida y confiar en su promesa de gloria futura."
+  },
+  {
+    "dia": 361,
+    "antiguo_testamento": "Zacarías 1 - Zacarías 2 - Zacarías 3",
+    "nuevo_testamento": "Apocalipsis 19",
+    "frase_biblica": "Tu diestra me sostiene. (Salmo 63,9)",
+    "reflexion": "ZACARÍAS: Zacarías anima al pueblo a reconstruir no solo el Templo, sino su fe y esperanza. A través de visiones simbólicas y mensajes mesiánicos, muestra que Dios no ha olvidado a su pueblo. Anuncia la llegada de un rey humilde que traerá la paz, prefigurando a Cristo. Zacarías nos invita a volver al Señor de todo corazón, a vivir con esperanza y a confiar en que su promesa se cumple en el tiempo perfecto."
+  },
+  {
+    "dia": 362,
+    "antiguo_testamento": "Zacarías 4 - Zacarías 5 - Zacarías 6",
+    "nuevo_testamento": "Apocalipsis 20",
+    "frase_biblica": "Contaré tus maravillas. (Salmo 9,2)"
+  },
+  {
+    "dia": 363,
+    "antiguo_testamento": "Zacarías 7 - Zacarías 8 - Zacarías 9 - Zacarías 10",
+    "nuevo_testamento": "Apocalipsis 21",
+    "frase_biblica": "Esforcémonos por entrar en su descanso. (Hebreos 4,11)"
+  },
+  {
+    "dia": 364,
+    "antiguo_testamento": "Zacarías 11 - Zacarías 12 - Zacarías 13 - Zacarías 14",
+    "nuevo_testamento": "Apocalipsis 22",
+    "frase_biblica": "El que me sigue no caminará en la oscuridad. (Juan 8,12)"
+  },
+  {
+    "dia": 365,
+    "antiguo_testamento": "Malaquías 1 - Malaquías 2 - Malaquías 3 - Malaquías 4",
+    "frase_biblica": "La gracia del Señor esté con todos ustedes. (Apocalipsis 22,21)",
+    "reflexion": "MALAQUÍAS: Malaquías denuncia la rutina religiosa, la infidelidad del pueblo y de los sacerdotes, y anuncia la llegada del mensajero del Señor que preparará el camino. Llama a una fe auténtica y a una vida coherente. Su mensaje concluye con una invitación a la conversión antes del gran día del Señor. Malaquías nos recuerda que Dios merece lo mejor de nosotros y que nuestra espera del Mesías debe ir acompañada de justicia, fe y entrega sincera."
+  }
+]
