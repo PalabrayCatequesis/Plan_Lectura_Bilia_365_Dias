@@ -290,4 +290,18 @@ footer {
 .cerrar-btn:hover {
   background-color: #b02a37;
 }
+.boton-principal {
+  padding: 0.6rem 1.2rem;
+  background-color: #5a8dee;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.boton-principal:hover {
+  background-color: #476bb8;
+}
 
