@@ -93,6 +93,25 @@ document.addEventListener("DOMContentLoaded", function () {
         </div>
       </div>
     `;
+document.getElementById("descargarAvance").addEventListener("click", () => {
+  const avance = {};
+  for (let i = 1; i <= 365; i++) {
+    const leido = localStorage.getItem(`leido-dia-${i}`);
+    if (leido === "true") {
+      avance[`leido-dia-${i}`] = true;
+    }
+  }
+
+  const blob = new Blob([JSON.stringify(avance, null, 2)], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+
+  const enlace = document.createElement("a");
+  enlace.href = url;
+  enlace.download = "avance_lectura.json";
+  enlace.click();
+
+  URL.revokeObjectURL(url);
+});
 
     document.getElementById("contenido").innerHTML = html;
 
@@ -194,4 +213,40 @@ document.addEventListener("DOMContentLoaded", function () {
   fechaInput.addEventListener("change", () => mostrarLectura(fechaInput.value));
 
   inicializarFecha();
+document.getElementById("cargarAvance").addEventListener("change", function (e) {
+  const archivo = e.target.files[0];
+  if (!archivo) return;
+
+  const lector = new FileReader();
+  lector.onload = function (evento) {
+    try {
+      const datos = JSON.parse(evento.target.result);
+
+      if (!datos || typeof datos !== "object") {
+        alert("El archivo no contiene datos válidos.");
+        return;
+      }
+
+      // Limpiamos el almacenamiento anterior
+      for (let i = 1; i <= 365; i++) {
+        localStorage.removeItem(`leido-dia-${i}`);
+      }
+
+      // Restauramos los días leídos
+      for (const [clave, valor] of Object.entries(datos)) {
+        if (clave.startsWith("leido-dia-")) {
+          localStorage.setItem(clave, valor);
+        }
+      }
+
+      alert("Avance restaurado correctamente.");
+      location.reload();
+    } catch (err) {
+      alert("Ocurrió un error al cargar el archivo. Asegúrate de que sea un archivo válido.");
+    }
+  };
+
+  lector.readAsText(archivo);
+});
+
 });
