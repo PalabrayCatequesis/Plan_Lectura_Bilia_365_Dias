@@ -250,3 +250,9 @@ document.getElementById("cargarAvance").addEventListener("change", function (e) 
 });
 
 });
+
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("./service-worker.js")
+    .then(() => console.log("Service Worker registrado"))
+    .catch(err => console.error("Error SW:", err));
+}
