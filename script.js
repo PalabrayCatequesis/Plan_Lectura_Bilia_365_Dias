@@ -44,8 +44,9 @@ document.addEventListener("DOMContentLoaded", function () {
     const dia = Math.floor((seleccionada - fechaInicioObj) / (1000 * 60 * 60 * 24)) + 1;
 
     if (dia < 1 || dia > 365) {
-      document.getElementById("contenido").innerHTML = "<p class='error'>La fecha seleccionada está fuera del rango del plan de lectura (1-365).</p>";
-      return;
+      dia = 1;
+      //document.getElementById("contenido").innerHTML = "<p class='error'>La fecha seleccionada está fuera del rango del plan de lectura (1-365).</p>";
+      //return;
     }
 
     const data = await fetch("plan_lectura_dinamico.json").then(res => res.json());
