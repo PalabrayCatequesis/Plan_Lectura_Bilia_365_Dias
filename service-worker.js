@@ -1,12 +1,12 @@
-const CACHE_NAME = "biblia-365-v1";
+const CACHE_NAME = "biblia-365-v2";
 
 const FILES_TO_CACHE = [
-  "./",
-  "./index.html",
-  "./styles.css",
-  "./script.js",
-  "./lecturas.json",
-  "./manifest.json"
+  "/Plan_Lectura_Bilia_365_Dias/",
+  "/Plan_Lectura_Bilia_365_Dias/index.html",
+  "/Plan_Lectura_Bilia_365_Dias/styles.css",
+  "/Plan_Lectura_Bilia_365_Dias/script.js",
+  "/Plan_Lectura_Bilia_365_Dias/manifest.json",
+  "/Plan_Lectura_Bilia_365_Dias/lecturas.json"
 ];
 
 self.addEventListener("install", event => {
