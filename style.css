@@ -332,6 +332,14 @@ footer {
   background-color: #24583e;
 }
 
+.install-text {
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+  margin-top: 5px;
+  font-style: italic;
+}
+
 
 
 

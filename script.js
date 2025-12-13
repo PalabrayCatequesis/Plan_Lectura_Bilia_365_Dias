@@ -260,19 +260,25 @@ if ("serviceWorker" in navigator) {
 
 let deferredPrompt;
 const installBtn = document.getElementById("installAppBtn");
+const installText = document.getElementById("installAppText");
 
 window.addEventListener("beforeinstallprompt", (e) => {
   e.preventDefault();
   deferredPrompt = e;
 
-  // Mostrar botón
+  // Mostrar botón y texto
   installBtn.style.display = "block";
+  installText.style.display = "block";
 
   installBtn.addEventListener("click", async () => {
+    // Ocultar botón y texto al hacer clic
     installBtn.style.display = "none";
+    installText.style.display = "none";
+
     deferredPrompt.prompt();
 
     const { outcome } = await deferredPrompt.userChoice;
     deferredPrompt = null;
   });
 });
+
