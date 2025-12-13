@@ -256,3 +256,22 @@ if ("serviceWorker" in navigator) {
     .then(() => console.log("Service Worker registrado"))
     .catch(err => console.error("Error SW:", err));
 }
+
+let deferredPrompt;
+const installBtn = document.getElementById("installAppBtn");
+
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+
+  // Mostrar botón
+  installBtn.style.display = "block";
+
+  installBtn.addEventListener("click", async () => {
+    installBtn.style.display = "none";
+    deferredPrompt.prompt();
+
+    const { outcome } = await deferredPrompt.userChoice;
+    deferredPrompt = null;
+  });
+});

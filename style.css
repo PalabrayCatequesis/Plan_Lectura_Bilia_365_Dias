@@ -314,6 +314,24 @@ footer {
   margin: 0 auto;
   border-bottom: 3px solid #5a8dee;
 }
+.install-btn {
+  background-color: #2f6f4e;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 18px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  margin: 15px auto;
+  display: block;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.install-btn:hover {
+  background-color: #24583e;
+}
+
 
 
 
