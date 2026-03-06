@@ -181,19 +181,19 @@ function actualizarProgreso() {
     }
   }
 
-  // Si no hay días marcados, calcular según fecha
+  // Si no hay días marcados, calcular por fecha
   if (leidos === 0) {
     const fechaInicio = new Date(localStorage.getItem("fechaInicio"));
     const hoy = new Date();
 
-    const dias = Math.floor((hoy - fechaInicio) / (1000 * 60 * 60 * 24)) + 1;
+    const diferenciaDias = Math.floor(
+      (hoy - fechaInicio) / (1000 * 60 * 60 * 24)
+    ) + 1;
 
-    if (dias > 0) {
-      leidos = dias;
+    if (diferenciaDias > 0 && diferenciaDias <= 365) {
+      leidos = diferenciaDias;
     }
   }
-
-  if (leidos > 365) leidos = 365;
 
   const porcentaje = Math.floor((leidos / 365) * 100);
 
