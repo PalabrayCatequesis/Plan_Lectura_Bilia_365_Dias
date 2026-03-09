@@ -1,4 +1,4 @@
-const CACHE_NAME = "biblia-365-v2";
+const CACHE_NAME = "biblia-365-v3";
 
 const FILES_TO_CACHE = [
   "/Plan_Lectura_Bilia_365_Dias/",
@@ -11,8 +11,23 @@ const FILES_TO_CACHE = [
 ];
 
 self.addEventListener("install", event => {
+  self.skipWaiting();
   event.waitUntil(
     caches.open(CACHE_NAME).then(cache => cache.addAll(FILES_TO_CACHE))
+  );
+});
+
+self.addEventListener("activate", event => {
+  event.waitUntil(
+    caches.keys().then(keys => {
+      return Promise.all(
+        keys.map(key => {
+          if (key !== CACHE_NAME) {
+            return caches.delete(key);
+          }
+        })
+      );
+    })
   );
 });
 
