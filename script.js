@@ -199,6 +199,9 @@ function actualizarProgreso() {
 
   const porcentaje = ((progresoReal / 365) * 100).toFixed(1);
 
+  document.getElementById("textoProgreso").textContent =
+`Has completado ${progresoReal} de 365 días`;
+
   const barra = document.getElementById("barraProgreso");
 
   if (barra) {
