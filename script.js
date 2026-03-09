@@ -117,12 +117,12 @@ document.getElementById("descargarAvance").addEventListener("click", () => {
     document.getElementById("contenido").innerHTML = html;
 
     document.getElementById("checkLectura").addEventListener("change", (e) => {
-      const marcado = e.target.checked;
-      localStorage.setItem(claveProgreso, marcado);
-      actualizarProgreso();
-      actualizarListaDiasLeidos();
-      document.getElementById("btnSiguienteDia").disabled = !marcado;
-    });
+  const marcado = e.target.checked;
+  localStorage.setItem(claveProgreso, marcado ? "true" : "false");
+  actualizarProgreso();
+  actualizarListaDiasLeidos();
+  document.getElementById("btnSiguienteDia").disabled = !marcado;
+});
 
     document.getElementById("btnSiguienteDia").disabled = !leido;
     document.getElementById("btnSiguienteDia").addEventListener("click", () => {
@@ -173,31 +173,15 @@ document.getElementById("descargarAvance").addEventListener("click", () => {
   }
 
 function actualizarProgreso() {
-
   let leidos = 0;
 
-  // Contar días marcados manualmente
   for (let i = 1; i <= 365; i++) {
     if (localStorage.getItem(`leido-dia-${i}`) === "true") {
       leidos++;
     }
   }
 
-  // Si no hay días marcados, calcular por fecha
-  if (leidos === 0) {
-    const fechaInicio = new Date(localStorage.getItem("fechaInicio"));
-    const hoy = new Date();
-
-    const diferencia = Math.floor(
-      (hoy - fechaInicio) / (1000 * 60 * 60 * 24)
-    ) + 1;
-
-    if (diferencia > 0 && diferencia <= 365) {
-      leidos = diferencia;
-    }
-  }
-
-  const porcentaje = Math.floor((leidos / 365) * 100);
+  const porcentaje = ((leidos / 365) * 100).toFixed(1);
 
   const barra = document.getElementById("barraProgreso");
 
