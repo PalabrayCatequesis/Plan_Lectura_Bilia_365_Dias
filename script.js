@@ -173,15 +173,18 @@ document.getElementById("descargarAvance").addEventListener("click", () => {
   }
 
 function actualizarProgreso() {
-  let leidos = 0;
 
-  for (let i = 1; i <= 365; i++) {
-    if (localStorage.getItem(`leido-dia-${i}`) === "true") {
-      leidos++;
-    }
-  }
+  const fechaInicio = new Date(localStorage.getItem("fechaInicio"));
+  const hoy = new Date();
 
-  const porcentaje = ((leidos / 365) * 100).toFixed(1);
+  let diasTranscurridos = Math.floor(
+    (hoy - fechaInicio) / (1000 * 60 * 60 * 24)
+  ) + 1;
+
+  if (diasTranscurridos < 0) diasTranscurridos = 0;
+  if (diasTranscurridos > 365) diasTranscurridos = 365;
+
+  const porcentaje = ((diasTranscurridos / 365) * 100).toFixed(1);
 
   const barra = document.getElementById("barraProgreso");
 
@@ -189,7 +192,8 @@ function actualizarProgreso() {
     barra.style.width = porcentaje + "%";
     barra.textContent = porcentaje + "%";
   }
-}
+  
+}}
   function actualizarListaDiasLeidos() {
     const contenedor = document.getElementById("listaDiasLeidos");
     contenedor.innerHTML = "";
