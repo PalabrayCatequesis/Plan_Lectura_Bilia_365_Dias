@@ -157,18 +157,27 @@ document.getElementById("descargarAvance").addEventListener("click", () => {
         const capitulo = partes.pop(); 
         const libro = partes.join(" ");
 
-        const versiculos = textos[libro]?.[capitulo];
-          if (versiculos) {
-            htmlModal += `<h4 style='text-align:center;'><strong>${pasaje}</strong></h4><div style='text-align:justify;'>`;
-            for (const [num, texto] of Object.entries(versiculos)) {
-              htmlModal += `<p>${num}. ${texto}</p>`;
-            }
-            htmlModal += `</div>`;
-          } else {
-            htmlModal += `<p><em>${pasaje} no disponible.</em></p>`;
-          }
-        });
-      });
+const versiculos = textos[libro]?.[capitulo];
+
+if (versiculos) {
+
+  htmlModal += `
+  <h3 class="titulo-capitulo">${libro} ${capitulo}</h3>
+  <div class="texto-biblico">
+  `;
+
+  for (const [num, texto] of Object.entries(versiculos)) {
+    htmlModal += `<p><sup>${num}</sup> ${texto}</p>`;
+  }
+
+  htmlModal += `</div>`;
+
+} else {
+
+  htmlModal += `<p><em>${pasaje} no disponible.</em></p>`;
+
+}
+});      });
 
       document.getElementById("contenidoLecturas").innerHTML = htmlModal;
       document.getElementById("modalLecturas").style.display = "block";
