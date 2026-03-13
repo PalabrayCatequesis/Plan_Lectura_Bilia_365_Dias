@@ -152,9 +152,12 @@ document.getElementById("descargarAvance").addEventListener("click", () => {
         const pasajes = Array.isArray(contenido) ? contenido : [contenido];
 
         pasajes.forEach(pasaje => {
-          const [libro, cap] = pasaje.split(" ");
-          const capitulo = cap?.trim();
-          const versiculos = textos[libro]?.[capitulo];
+
+        const partes = pasaje.split(" ");
+        const capitulo = partes.pop(); 
+        const libro = partes.join(" ");
+
+        const versiculos = textos[libro]?.[capitulo];
           if (versiculos) {
             htmlModal += `<h4 style='text-align:center;'><strong>${pasaje}</strong></h4><div style='text-align:justify;'>`;
             for (const [num, texto] of Object.entries(versiculos)) {
