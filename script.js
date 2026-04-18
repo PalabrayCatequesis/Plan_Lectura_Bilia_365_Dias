@@ -59,15 +59,67 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const claveProgreso = `leido-dia-${dia}`;
     const leido = localStorage.getItem(claveProgreso) === "true";
-    const tituloDia = leido ? `<span style="color:green;">Día ${dia} ✅</span>` : `Día ${dia}`;
+    
+const fechaBonita = new Date(fechaSeleccionada).toLocaleDateString("es-ES", {
+  weekday: "long",
+  day: "numeric",
+  month: "long"
+});
 
-    let html = `
-      <h2>${tituloDia}</h2>
-      <p><strong>Antiguo Testamento:</strong> ${Array.isArray(lectura.antiguo_testamento) ? lectura.antiguo_testamento.join(", ") : lectura.antiguo_testamento}</p>
-      ${lectura.salmos_proverbios ? `<p><strong>Salmos/Proverbios:</strong> ${Array.isArray(lectura.salmos_proverbios) ? lectura.salmos_proverbios.join(", ") : lectura.salmos_proverbios}</p>` : ''}
-      <p><strong>Nuevo Testamento:</strong> ${Array.isArray(lectura.nuevo_testamento) ? lectura.nuevo_testamento.join(", ") : lectura.nuevo_testamento}</p>
-      <div class="frase">"${lectura.frase_biblica}"</div>
-    `;
+let html = `
+<div class="tarjeta-dia-premium">
+  <div class="linea-dia">
+    📖 Día <strong>${dia}</strong> de 365 ${leido ? "✅" : ""}
+  </div>
+  <div class="linea-fecha">
+    📅 ${fechaBonita}
+  </div>
+  <div class="linea-versiculo">
+    ✨ "${lectura.frase_biblica}"
+  </div>
+</div>
+`;
+
+// Antiguo Testamento
+if (lectura.antiguo_testamento) {
+  html += `
+    <p class="seccion-titulo">📜 Antiguo Testamento</p>
+    <p>
+    ${Array.isArray(lectura.antiguo_testamento)
+      ? lectura.antiguo_testamento.join(", ")
+      : lectura.antiguo_testamento}
+    </p>
+  `;
+}
+
+// Salmos / Proverbios
+if (lectura.salmos_proverbios) {
+  html += `
+    <p class="seccion-titulo">🎵 Salmos / Proverbios</p>
+    <p>
+    ${Array.isArray(lectura.salmos_proverbios)
+      ? lectura.salmos_proverbios.join(", ")
+      : lectura.salmos_proverbios}
+    </p>
+  `;
+}
+
+// Nuevo Testamento
+if (lectura.nuevo_testamento) {
+  html += `
+    <p class="seccion-titulo">✝️ Nuevo Testamento</p>
+    <p>
+    ${Array.isArray(lectura.nuevo_testamento)
+      ? lectura.nuevo_testamento.join(", ")
+      : lectura.nuevo_testamento}
+    </p>
+  `;
+}
+
+// Frase bíblica
+html += `
+  <div class="frase">"${lectura.frase_biblica}"</div>
+`;
 
     Object.entries(lectura).forEach(([clave, valor]) => {
       if (clave.startsWith("reflexion")) {
