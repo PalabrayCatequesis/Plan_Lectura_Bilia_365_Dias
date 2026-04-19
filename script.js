@@ -66,6 +66,8 @@ const fechaBonita = new Date(fechaSeleccionada).toLocaleDateString("es-ES", {
   month: "long"
 });
 
+const frase = lectura.frase_biblica ? lectura.frase_biblica : "";
+
 let html = `
 <div class="tarjeta-dia-premium">
   <div class="linea-dia">
@@ -75,7 +77,7 @@ let html = `
     📅 ${fechaBonita}
   </div>
   <div class="linea-versiculo">
-    ✨ "${lectura.frase_biblica}"
+    ✨ "${frase}"
   </div>
 </div>
 `;
@@ -116,10 +118,6 @@ if (lectura.nuevo_testamento) {
   `;
 }
 
-// Frase bíblica
-html += `
-  <div class="frase">"${lectura.frase_biblica}"</div>
-`;
 
     Object.entries(lectura).forEach(([clave, valor]) => {
       if (clave.startsWith("reflexion")) {
@@ -166,7 +164,13 @@ document.getElementById("descargarAvance").addEventListener("click", () => {
   URL.revokeObjectURL(url);
 });
 
-    document.getElementById("contenido").innerHTML = html;
+  const contenedor = document.getElementById("contenido");
+contenedor.innerHTML = html;
+contenedor.classList.remove("animar-lectura");
+
+void contenedor.offsetWidth; // reinicia animación
+
+contenedor.classList.add("animar-lectura");
 
     document.getElementById("checkLectura").addEventListener("change", (e) => {
   const marcado = e.target.checked;
@@ -219,7 +223,7 @@ if (versiculos) {
   `;
 
   for (const [num, texto] of Object.entries(versiculos)) {
-    htmlModal += `<p><sup>${num}</sup> ${texto}</p>`;
+    htmlModal += `<p><sup class="numero-versiculo">${num}</sup> ${texto}</p>`;
   }
 
   htmlModal += `</div>`;
@@ -302,6 +306,24 @@ function actualizarProgreso() {
   fechaInput.addEventListener("change", () => mostrarLectura(fechaInput.value));
 
   inicializarFecha();
+  const btnModo = document.getElementById("toggleModo");
+
+if(localStorage.getItem("modoOscuro") === "true"){
+  document.body.classList.add("modo-oscuro");
+  btnModo.textContent = "☀️ Modo Claro";
+}
+
+btnModo.addEventListener("click", () => {
+  document.body.classList.toggle("modo-oscuro");
+
+  const activo = document.body.classList.contains("modo-oscuro");
+
+  localStorage.setItem("modoOscuro", activo);
+
+  btnModo.textContent = activo
+    ? "☀️ Modo Claro"
+    : "🌙 Modo Oscuro";
+});
 document.getElementById("cargarAvance").addEventListener("change", function (e) {
   const archivo = e.target.files[0];
   if (!archivo) return;
