@@ -1,4 +1,4 @@
-const CACHE_NAME = "biblia-365-v8";
+const CACHE_NAME = "biblia-365-v9";
 
 const FILES_TO_CACHE = [
   "/Plan_Lectura_Bilia_365_Dias/",
